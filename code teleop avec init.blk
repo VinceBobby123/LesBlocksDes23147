@@ -2,49 +2,54 @@
 <variables>
 <variable id="zUA9Pwn~jgVp/(L_D9(,">Consigne</variable>
 <variable id="E3aq4eK?8p^]_;,ywQ(Y">TargetPos</variable>
-<variable id="PQBZnc]oc.V%GjJ[04M?">LeftWithDrift</variable>
-<variable id="7LTo?Ufk@^+,K6wFz~13">TorresPower</variable>
+<variable id="]anhqL(==Wve$!*9r!@H">ConsigneArm</variable>
+<variable id="9lmuP-YhVG_DBHc/`S^=">TorresConsigne</variable>
 <variable id="Y!$DP2*uMa?SDmAzNWh,">axial1</variable>
 <variable id="^UpC/6pwOPh@TT!,8oVE">C</variable>
 <variable id="!xtr{2wgd6P)G4%Zx!E*">b</variable>
-<variable id="XjGQEZIy|)e_yBaa,d[g">RightWithDrift</variable>
 <variable id="z}c7~FYbuq`X01t[Gi(x">lateral1</variable>
-<variable id="}E[KjBhQ{,B-`2?wL#`;">ArmLeft</variable>
 <variable id="bbz%Ci44gd/O)rKAh7BE">lateral</variable>
-<variable id="Rp0lPekaC/RdrSHhJ}7}">DriftLeft</variable>
-<variable id="7j|BBm2i)urUJfE6|3e0">LeftInCm</variable>
-<variable id="ti(D*D0@r{qXxl]rPph-">TorresCoef</variable>
+<variable id="}E[KjBhQ{,B-`2?wL#`;">ArmLeft</variable>
+<variable id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</variable>
+<variable id="~1d^[CJ=mlJb-Br?~oAE">ArmPower</variable>
 <variable id="k?zh^k_Orxi[sNPs.)Vz">yaw</variable>
 <variable id="+CP[0*{1J`c;3HTvP%W{">leftFrontPower</variable>
 <variable id="Dvpglc9UxW~wgH@ta0LP">RobotReduction</variable>
 <variable id="P:XwW3E6}H_!OjE.l{6x">rightFrontPower</variable>
 <variable id="+2Qv8oDa_v90|LL;eD!k">axial</variable>
+<variable id="ti(D*D0@r{qXxl]rPph-">TorresCoef</variable>
 <variable id="I8oWH|8bn`JViPUvk`c`">CircleWasPressed</variable>
 <variable id="enmejy$2sjn^8^%1se[E">SquareWasPressed</variable>
-<variable id="CDLm:9ZZ(x,b;w;FgOEC">state;;;</variable>
-<variable id="9$#cwip;UE0KM!pR$=7{">DriftRight</variable>
-<variable id="TtH-hD5`v4c]D=rlX88=">RightInCm</variable>
+<variable id="O0XlO4GYd|vzrMU~0]%.">TorresAngle</variable>
+<variable id="{=HEMC]@ZVau@spYsh;=">ArmConsigne</variable>
+<variable id="7LTo?Ufk@^+,K6wFz~13">TorresPower</variable>
 <variable id="APfL|CYPNfIVS}N4VDmi">gyro_degreeeeee</variable>
 <variable id="%=G;ExcF`IeP)U5Tqt$A">leftBackPower</variable>
 <variable id="]a=q2O(hYa7{h#/A$!IC">rightBackPower</variable>
 <variable id="fs8Ea#W+:+H0F{{C6D-q">Ouverture pince</variable>
-<variable id="O0XlO4GYd|vzrMU~0]%.">TorresAngle</variable>
-<variable id="=xtXf+V|[u4PfQ;e/o4d">TriangleWasPressed</variable>
-<variable id="p-}UYxZ@B,-%jss@1DEW">DriftTorres</variable>
-<variable id="~%J9~Y{:_^*wB7=Q$aIg">CircumferenceArmPulley</variable>
-<variable id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</variable>
-<variable id="F=:~q25VauAr-vBBy?)g">ArmRight</variable>
-<variable id="{VY]m$l42oBZjX09j.)Y">TorresStablePower</variable>
 <variable id="c^pZ=BM.FVns.ppIF^wB">DeploiementMaxPhysique</variable>
 <variable id="SGjtJhYONL-$M@47/%de">LeftStickInversé</variable>
+<variable id="9$#cwip;UE0KM!pR$=7{">DriftRight</variable>
+<variable id="CDLm:9ZZ(x,b;w;FgOEC">state;;;</variable>
+<variable id="=xtXf+V|[u4PfQ;e/o4d">TriangleWasPressed</variable>
+<variable id="{HIeM*6#J6b6EFSkYnX{">ArmConsigneInCm</variable>
+<variable id="Rp0lPekaC/RdrSHhJ}7}">DriftLeft</variable>
+<variable id="TtH-hD5`v4c]D=rlX88=">RightInCm</variable>
+<variable id="p-}UYxZ@B,-%jss@1DEW">DriftTorres</variable>
+<variable id="7j|BBm2i)urUJfE6|3e0">LeftInCm</variable>
+<variable id="~%J9~Y{:_^*wB7=Q$aIg">CircumferenceArmPulley</variable>
+<variable id="PQBZnc]oc.V%GjJ[04M?">LeftWithDrift</variable>
+<variable id="XjGQEZIy|)e_yBaa,d[g">RightWithDrift</variable>
 <variable id="48;mfz,84(,Eok@uL-oN">TorresPosition</variable>
-<variable id="9lmuP-YhVG_DBHc/`S^=">TorresConsigne</variable>
+<variable id="mFGLiv+lP@@3=Os~#XN{">ConsigneTorres</variable>
 <variable id="IxRiC(G0*rhsrF1IbZ:m">max</variable>
-<variable id="G$l8`jw2^~qLy@!A/#aI">TorresState</variable>
-<variable id="~1d^[CJ=mlJb-Br?~oAE">PID_bras</variable>
+<variable id="U~mg{]jP,_ETyry[,P5e">CTorresInDegrees</variable>
 <variable id="@.vBZrmxKFN).:!yl:eg">Degr/tick</variable>
+<variable id="{VY]m$l42oBZjX09j.)Y">TorresStablePower</variable>
+<variable id="rs3Fn{[fT#./].P6*1ab">CTorres</variable>
+<variable id="z4#d!h/BuM!]JhRasOwF">CArm</variable>
 </variables>
-<block type="procedures_defnoreturn" id="WtpyD@tEu+EoY=P9iY,D" deletable="false" x="1404" y="-413">
+<block type="procedures_defnoreturn" id="WtpyD@tEu+EoY=P9iY,D" deletable="false" x="1214" y="-519">
 <field name="NAME">runOpMode</field>
 <comment pinned="false" h="141" w="577">This sample contains the bare minimum Blocks for any regular OpMode. The 3 blue
 Comment Blocks show where to place Initialization code (runs once, after touching the
@@ -53,72 +58,77 @@ touching Start), and Loop code (runs repeatedly while the OpMode is active, name
 Stopped).</comment>
 <data>{"commentPositionLeft":-20,"commentPositionTop":-169}</data>
 <statement name="STACK">
+<block type="misc_callJava_noReturn" id="fho2VC!5TMh#GCJBfiy!">
+<mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.Dashboard InitDashboard() void" fullClassName="org.firstinspires.ftc.teamcode.Dashboard" simpleName="Dashboard" parameterCount="0" returnType="void" color="289" heading="call Java method" comment="" tooltip="" accessMethod="callJava" convertReturnValue=""/>
+<field name="CLASS_NAME">Dashboard</field>
+<field name="METHOD_NAME">InitDashboard</field>
+<next>
 <block type="misc_callJava_noReturn" id="02T?qka(]=wkv37%r5jE">
 <mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.Navx initNavX() void" fullClassName="org.firstinspires.ftc.teamcode.Navx" simpleName="Navx" parameterCount="0" returnType="void" color="289" heading="call Java method" comment="Initialize the NavX Micro sensor. This method must be called before using the other methods." tooltip="init" accessMethod="callJava" convertReturnValue=""/>
 <field name="CLASS_NAME">Navx</field>
 <field name="METHOD_NAME">initNavX</field>
 <comment pinned="false" h="80" w="160">Initialize the NavX Micro sensor. This method must be called before using the other methods.</comment>
 <next>
-<block type="misc_callJava_noReturn" id="R6RIK[/YgAnjZo`#WMV:">
+<block type="misc_callJava_noReturn" id="FX3o4IUb07Ske*XZ;Cma">
 <mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.Pid_RBL Init(int,double,double,double,double) void" fullClassName="org.firstinspires.ftc.teamcode.Pid_RBL" simpleName="Pid_RBL" parameterCount="5" returnType="void" color="289" heading="call Java method" comment="Initialisation PID" tooltip="Initiser un PID avec un indice de 0 à 7." accessMethod="callJava" convertReturnValue="" argLabel0="ID" argType0="int" argAuto0="" argLabel1="Gain P" argType1="double" argAuto1="" argLabel2="Gain I" argType2="double" argAuto2="" argLabel3="Gain D" argType3="double" argAuto3="" argLabel4="tolérance" argType4="double" argAuto4=""/>
 <field name="CLASS_NAME">Pid_RBL</field>
 <field name="METHOD_NAME">Init</field>
 <comment pinned="false" h="80" w="160">Torres</comment>
 <data>{"commentPositionLeft":-40,"commentPositionTop":-105}</data>
 <value name="ARG0">
-<shadow type="math_number" id="_#m-~T{1$1.P?F/I`2c:">
+<shadow type="math_number" id="do0Lc^q/(i:TY.,iAK4L">
 <field name="NUM">6</field>
 </shadow>
 </value>
 <value name="ARG1">
-<shadow type="math_number" id="[KF}y[3N8UapG[t]r[AG">
-<field name="NUM">0.01</field>
+<shadow type="math_number" id="c;J]vT$Tdxi_uE,^Vr`S">
+<field name="NUM">0.035</field>
 </shadow>
 </value>
 <value name="ARG2">
-<shadow type="math_number" id="Gqu#KI`cxwx,-:8!#.!i">
-<field name="NUM">0</field>
+<shadow type="math_number" id="+]txPT]0cJXxUJY8,Zkn">
+<field name="NUM">0.00001</field>
 </shadow>
 </value>
 <value name="ARG3">
-<shadow type="math_number" id="DT8Jj~_T9v3G;Qv*TS@y">
-<field name="NUM">0.004</field>
+<shadow type="math_number" id="MS/,NEhW^0cEtj2SJ*@t">
+<field name="NUM">0.008</field>
 </shadow>
 </value>
 <value name="ARG4">
-<shadow type="math_number" id="cU1eKI!}LFv9O^^Gm*Ec">
-<field name="NUM">1</field>
+<shadow type="math_number" id="%9B?twgNIx}G9$y[EWj`">
+<field name="NUM">0</field>
 </shadow>
 </value>
 <next>
-<block type="misc_callJava_noReturn" id="Jvtd7K*pnNZKi~!`2P%;">
+<block type="misc_callJava_noReturn" id=";f*)eqhReAXX^(nT{n+i">
 <mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.Pid_RBL Init(int,double,double,double,double) void" fullClassName="org.firstinspires.ftc.teamcode.Pid_RBL" simpleName="Pid_RBL" parameterCount="5" returnType="void" color="289" heading="call Java method" comment="Initialisation PID" tooltip="Initiser un PID avec un indice de 0 à 7." accessMethod="callJava" convertReturnValue="" argLabel0="ID" argType0="int" argAuto0="" argLabel1="Gain P" argType1="double" argAuto1="" argLabel2="Gain I" argType2="double" argAuto2="" argLabel3="Gain D" argType3="double" argAuto3="" argLabel4="tolérance" argType4="double" argAuto4=""/>
 <field name="CLASS_NAME">Pid_RBL</field>
 <field name="METHOD_NAME">Init</field>
-<comment pinned="false" h="80" w="160">Arm</comment>
+<comment pinned="false" h="80" w="160">Initialisation PID</comment>
 <data>{"commentPositionLeft":-40,"commentPositionTop":-105}</data>
 <value name="ARG0">
-<shadow type="math_number" id="O)t6b,1zSRI7PdoJWWpe">
+<shadow type="math_number" id="M5w3A9-e@Zm0[:8tc*V.">
 <field name="NUM">7</field>
 </shadow>
 </value>
 <value name="ARG1">
-<shadow type="math_number" id="e[5~aU-{Qf(k9K.s$/5A">
-<field name="NUM">0.1</field>
+<shadow type="math_number" id="wH1B4WY@1RQ$DXKuMH5#">
+<field name="NUM">0.35</field>
 </shadow>
 </value>
 <value name="ARG2">
-<shadow type="math_number" id="*QhgxxkaY0RK$ZKixVd~">
-<field name="NUM">0</field>
+<shadow type="math_number" id=":;qi09MHUU7Q|J%JZDoK">
+<field name="NUM">0.00001</field>
 </shadow>
 </value>
 <value name="ARG3">
-<shadow type="math_number" id="v9^qhrspZ6h0zpoT[jJ$">
-<field name="NUM">0</field>
+<shadow type="math_number" id="p,/hU/mj1*.h`CsOu/X@">
+<field name="NUM">0.05</field>
 </shadow>
 </value>
 <value name="ARG4">
-<shadow type="math_number" id=")}enZcD#gUP130lT}BEJ">
+<shadow type="math_number" id="lmu;1HXN8ON[~p8Y^zYf">
 <field name="NUM">0</field>
 </shadow>
 </value>
@@ -187,14 +197,6 @@ Stopped).</comment>
 </block>
 </value>
 <next>
-<block type="variables_set" id="zIPV$9B2e~xe:md(9t[y">
-<field name="VAR" id="G$l8`jw2^~qLy@!A/#aI">TorresState</field>
-<value name="VALUE">
-<block type="math_number" id="O]-Wgc/Ei~|Ad,kG6Yji">
-<field name="NUM">1</field>
-</block>
-</value>
-<next>
 <block type="variables_set" id="*(D+9sB)IHwLDwS`iZ%@">
 <field name="VAR" id="Rp0lPekaC/RdrSHhJ}7}">DriftLeft</field>
 <value name="VALUE">
@@ -215,7 +217,7 @@ Stopped).</comment>
 <field name="VAR" id="c^pZ=BM.FVns.ppIF^wB">DeploiementMaxPhysique</field>
 <value name="VALUE">
 <block type="math_number" id="!CTbGH0JkHxad5|rq%^Z">
-<field name="NUM">66</field>
+<field name="NUM">71</field>
 </block>
 </value>
 <next>
@@ -266,6 +268,22 @@ Stopped).</comment>
 </block>
 </value>
 <next>
+<block type="variables_set" id="QJhe+B*IZRDhs8;6c,(9">
+<field name="VAR" id="rs3Fn{[fT#./].P6*1ab">CTorres</field>
+<value name="VALUE">
+<block type="math_number" id="X%,,|V1Vwef./#b3w{i@">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="V}@y/aY`RpZhmge(aS8E">
+<field name="VAR" id="z4#d!h/BuM!]JhRasOwF">CArm</field>
+<value name="VALUE">
+<block type="math_number" id="E4M?2Uu)Imx0Wu)T(A*+">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
 <block type="procedures_callnoreturn" id="rJOuiY3X%e7F6w/5UY~s">
 <mutation name="Init Motor"/>
 <next>
@@ -275,7 +293,7 @@ Stopped).</comment>
 <data>{"IDENTIFIER":"PinceLeft"}</data>
 <value name="VALUE">
 <shadow type="math_number" id="U$M2GD0GzMjDb0M@v-O;">
-<field name="NUM">0.65</field>
+<field name="NUM">0</field>
 </shadow>
 </value>
 <next>
@@ -285,7 +303,7 @@ Stopped).</comment>
 <data>{"IDENTIFIER":"PinceRight"}</data>
 <value name="VALUE">
 <shadow type="math_number" id=":rnlb]Hc`G*N$-,=5U9B">
-<field name="NUM">0.05</field>
+<field name="NUM">1</field>
 </shadow>
 </value>
 <next>
@@ -330,49 +348,9 @@ Stopped).</comment>
 <block type="linearOpMode_opModeIsActive" id="e)cr{!2VIET83s,JWC.="/>
 </value>
 <statement name="DO">
-<block type="controls_if" id="u52tv9p3k.`fNZQ!H9b:">
-<value name="IF0">
-<block type="gamepad_getProperty_Boolean" id="8+qoCm83GAsuSTK2Bl3R">
-<field name="IDENTIFIER">gamepad1</field>
-<field name="PROP">Options</field>
-<data>{"IDENTIFIER":"gamepad1"}</data>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id="?{#[K(qP}}(jRsq$/PJz">
-<field name="VAR" id="p-}UYxZ@B,-%jss@1DEW">DriftTorres</field>
-<value name="VALUE">
-<block type="math_arithmetic" id="A4EDVaYVCAiGx/cQ,!An">
-<field name="OP">MINUS</field>
-<value name="A">
-<shadow type="math_number" id="`4B]ZJd*z^/kOY,[dUbq">
-<field name="NUM">0</field>
-</shadow>
-</value>
-<value name="B">
-<shadow type="math_number">
-<field name="NUM">1</field>
-</shadow>
-<block type="dcMotor_getProperty_Number" id="tfv-p8`H,mbXRKU~AFuh">
-<field name="IDENTIFIER">TowerRightAsDcMotor</field>
-<field name="PROP">CurrentPosition</field>
-<data>{"IDENTIFIER":"TowerRight"}</data>
-</block>
-</value>
-</block>
-</value>
-</block>
-</statement>
-<next>
 <block type="variables_set" id="ZzOraW(fwoXxM~4-UG[-">
 <field name="VAR" id="48;mfz,84(,Eok@uL-oN">TorresPosition</field>
 <value name="VALUE">
-<block type="math_arithmetic" id="~U,/k^J$#p3Pd_94{_Na">
-<field name="OP">ADD</field>
-<value name="A">
-<shadow type="math_number" id="eIbkNa8s|@_#tyFjQ^Dn">
-<field name="NUM">1</field>
-</shadow>
 <block type="math_arithmetic" id="}#x^T.oC4+b$CwDaNfAs" inline="false">
 <field name="OP">DIVIDE</field>
 <value name="A">
@@ -410,16 +388,6 @@ Stopped).</comment>
 </value>
 </block>
 </value>
-<value name="B">
-<shadow type="math_number" id="%!zgW64{t;qnCH_;Yox?">
-<field name="NUM">1</field>
-</shadow>
-<block type="variables_get" id="04p?$Y[0]@,q=`cSP~Pr">
-<field name="VAR" id="p-}UYxZ@B,-%jss@1DEW">DriftTorres</field>
-</block>
-</value>
-</block>
-</value>
 <next>
 <block type="variables_set" id="^fZ$L3#``H=`^IXM]([H">
 <field name="VAR" id="SGjtJhYONL-$M@47/%de">LeftStickInversé</field>
@@ -446,7 +414,7 @@ Stopped).</comment>
 <field name="OP">ADD</field>
 <value name="A">
 <shadow type="math_number" id="PFaHAD*b-_Kt`r+9-~[$">
-<field name="NUM">-7.3</field>
+<field name="NUM">-10.3</field>
 </shadow>
 </value>
 <value name="B">
@@ -476,102 +444,6 @@ Stopped).</comment>
 </block>
 </value>
 <next>
-<block type="procedures_callnoreturn" id="#|vI?qJ#vld!0Mp|BC}T">
-<mutation name="Mecanum_DriveTrain"/>
-<next>
-<block type="procedures_callnoreturn" id="{n~[=:S{68=n*due/eih">
-<mutation name="TeleOp_Motor_SetSpeed"/>
-<next>
-<block type="procedures_callnoreturn" id="2n@0eke`Dq$Z%/mFvH*i">
-<mutation name="ExtensibleArm"/>
-<next>
-<block type="procedures_callnoreturn" id="yvwliu|przU?B~yWj:eV">
-<mutation name="Pince_commands"/>
-<next>
-<block type="procedures_callnoreturn" id="zf9Ielm5!;cbJfuNOqBV">
-<mutation name="Torres"/>
-<next>
-<block type="procedures_callnoreturn" id="^0#-D7oPcUlwtr+pRkyS">
-<mutation name="Telemetry"/>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
-</block>
-</next>
-</block>
-</statement>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
-</block>
-<block type="procedures_defnoreturn" id="HvO?B7|hwkE!uTV}T]wO" x="-76" y="-26">
-<field name="NAME">ExtensibleArm</field>
-<comment pinned="false" h="80" w="160">Describe this function...</comment>
-<statement name="STACK">
 <block type="variables_set" id="GrujWaxOa[jI)BBJ4=M(">
 <field name="VAR" id="PQBZnc]oc.V%GjJ[04M?">LeftWithDrift</field>
 <value name="VALUE">
@@ -698,1171 +570,583 @@ Stopped).</comment>
 </block>
 </value>
 <next>
-<block type="controls_if" id="6B,d{HKxvU/fp`r#so{4">
-<mutation else="1"/>
+<block type="controls_if" id="g[.hjKp4DOX{l{wXf!F{">
+<mutation elseif="1"/>
 <value name="IF0">
-<block type="logic_compare" id="UB8v|t0%VNqEU_bKHn|0">
-<field name="OP">LT</field>
-<value name="A">
-<block type="variables_get" id="_oI$a-y@A#*peR!dAE^B">
-<field name="VAR" id="O0XlO4GYd|vzrMU~0]%.">TorresAngle</field>
-</block>
-</value>
-<value name="B">
-<block type="math_number" id="Lq2h}TQ5cO9=RU-@B,+5">
-<field name="NUM">90</field>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id=";!2E!zF6`ot8bhl2Jrzo">
-<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
-<value name="VALUE">
-<block type="math_arithmetic" id="33APr)P%T#sSB-G8m3v|">
-<field name="OP">MINUS</field>
-<value name="A">
-<shadow type="math_number" id="5_,d1*#P-c#LQ|QKH%Ue">
-<field name="NUM">1</field>
-</shadow>
-<block type="math_arithmetic" id="S!Zb7Ejbyt^[a%z/YK?o">
-<field name="OP">DIVIDE</field>
-<value name="A">
-<shadow type="math_number" id="f.:,Ra%/`c#)9knO78r6">
-<field name="NUM">67.1</field>
-</shadow>
-</value>
-<value name="B">
-<shadow type="math_number" id="_?KiXG%AFDV/S%4v`dd~">
-<field name="NUM">1</field>
-</shadow>
-<block type="math_trig" id="TF3nD%aI,V#5q-V[,0)n">
-<field name="OP">COS</field>
-<value name="NUM">
-<shadow type="math_number" id=";in-c8JHsUTN7,GjR@QO">
-<field name="NUM">45</field>
-</shadow>
-<block type="variables_get" id="lOMss_o,t8lg8xHw#}h)">
-<field name="VAR" id="O0XlO4GYd|vzrMU~0]%.">TorresAngle</field>
-</block>
-</value>
-</block>
-</value>
-</block>
-</value>
-<value name="B">
-<shadow type="math_number" id="4p21NU4[hahbs*[1c,0j">
-<field name="NUM">29.2</field>
-</shadow>
-</value>
-</block>
-</value>
-</block>
-</statement>
-<statement name="ELSE">
-<block type="variables_set" id="i~@3qIqN?^An@pWF~q;X">
-<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
-<value name="VALUE">
-<block type="math_arithmetic" id="b`ve:E)4GTzy`Xuluf_:">
-<field name="OP">MINUS</field>
-<value name="A">
-<shadow type="math_number">
-<field name="NUM">1</field>
-</shadow>
-<block type="math_arithmetic" id="]ab3.9QOF9{/4,(oihyW">
-<field name="OP">DIVIDE</field>
-<value name="A">
-<shadow type="math_number" id="5f)RJpz{srKoVxQBh9)Q">
-<field name="NUM">18</field>
-</shadow>
-</value>
-<value name="B">
-<shadow type="math_number">
-<field name="NUM">1</field>
-</shadow>
-<block type="math_trig" id="n3122gwowesS9z[50VoH">
-<field name="OP">SIN</field>
-<value name="NUM">
-<shadow type="math_number">
-<field name="NUM">45</field>
-</shadow>
-<block type="variables_get" id=";1Fep`zk*qt$)Di9pFao">
-<field name="VAR" id="O0XlO4GYd|vzrMU~0]%.">TorresAngle</field>
-</block>
-</value>
-</block>
-</value>
-</block>
-</value>
-<value name="B">
-<shadow type="math_number" id="DO9K)Ck-HM`jtEWOWmN_">
-<field name="NUM">29.2</field>
-</shadow>
-</value>
-</block>
-</value>
-</block>
-</statement>
-<next>
-<block type="controls_if" id="ge$MX4.Q6Dyw.BK@p{!r">
-<value name="IF0">
-<block type="logic_operation" id="?8b2x|dIW1nTs,o{5r/:">
-<field name="OP">OR</field>
-<value name="A">
-<block type="logic_compare" id="){U%kHwqf%OifMf,DP;y">
-<field name="OP">GT</field>
-<value name="A">
-<block type="variables_get" id="MTQg@XjH]X0H@}`lNMX=">
-<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
-</block>
-</value>
-<value name="B">
-<block type="variables_get" id="P{H{F@arMl=O[5-sKwh(">
-<field name="VAR" id="c^pZ=BM.FVns.ppIF^wB">DeploiementMaxPhysique</field>
-</block>
-</value>
-</block>
-</value>
-<value name="B">
-<block type="logic_compare" id="mi=jgx^Pq|G8./OI!ytX">
-<field name="OP">LTE</field>
-<value name="A">
-<block type="variables_get" id="89n3^#V%.G=d1O+3@z^R">
-<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
-</block>
-</value>
-<value name="B">
-<block type="math_number" id="0,*Q=L$kAMfFv%[[jaM[">
-<field name="NUM">0</field>
-</block>
-</value>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id="7S(85()HxM@TVUnsN+*F">
-<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
-<value name="VALUE">
-<block type="variables_get" id="_kJxSoTMtPtHxnqTbtL]">
-<field name="VAR" id="c^pZ=BM.FVns.ppIF^wB">DeploiementMaxPhysique</field>
-</block>
-</value>
-</block>
-</statement>
-<next>
-<block type="variables_set" id="f[0oQ2`JVv]v^Q@iaV3n">
-<field name="VAR" id="F=:~q25VauAr-vBBy?)g">ArmRight</field>
-<value name="VALUE">
-<block type="variables_get" id="I6|AQglEq))cQ:JqTYji">
-<field name="VAR" id="SGjtJhYONL-$M@47/%de">LeftStickInversé</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="7!uFz81Z$IfesIsL+!2#">
-<field name="VAR" id="}E[KjBhQ{,B-`2?wL#`;">ArmLeft</field>
-<value name="VALUE">
-<block type="variables_get" id="F[iTWkB$.SHcHHgEmr9i">
-<field name="VAR" id="SGjtJhYONL-$M@47/%de">LeftStickInversé</field>
-</block>
-</value>
-<next>
-<block type="controls_if" id="|zD{zr^/gZQP_OP9H49z">
-<value name="IF0">
-<block type="logic_operation" id="Nx[Yo$nR%il|l6~uELS-">
-<field name="OP">OR</field>
-<value name="A">
-<block type="logic_compare" id="+uWvy@]I:#xyPjcGz$-4">
-<field name="OP">GT</field>
-<value name="A">
-<block type="variables_get" id="2sc$t*D`%T?(0A$2XsgH">
-<field name="VAR" id="TtH-hD5`v4c]D=rlX88=">RightInCm</field>
-</block>
-</value>
-<value name="B">
-<block type="math_number" id="cl0ZHA=1N.-EV!H|Xv5f">
-<field name="NUM">34</field>
-</block>
-</value>
-</block>
-</value>
-<value name="B">
-<block type="logic_compare" id="e]yf;ng8z`jO-,4Rv?7}">
-<field name="OP">GT</field>
-<value name="A">
-<block type="variables_get" id="Cu;=@F@6cCt7OdI|)f__">
-<field name="VAR" id="7j|BBm2i)urUJfE6|3e0">LeftInCm</field>
-</block>
-</value>
-<value name="B">
-<block type="math_number" id="D69@zSaX_,]S$QM05u[J">
-<field name="NUM">34</field>
-</block>
-</value>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id="ij-_ZOH[j$-.u(DrO+{L">
-<field name="VAR" id="F=:~q25VauAr-vBBy?)g">ArmRight</field>
-<value name="VALUE">
-<block type="math_arithmetic" id="-q:RfvC0u7=,L}oH1E*%">
-<field name="OP">MULTIPLY</field>
-<value name="A">
-<shadow type="math_number">
-<field name="NUM">1</field>
-</shadow>
-<block type="variables_get" id="nEs{q}_9]ic4j*4T!X$X">
-<field name="VAR" id="F=:~q25VauAr-vBBy?)g">ArmRight</field>
-</block>
-</value>
-<value name="B">
-<shadow type="math_number" id="`,s5Cl)b5wf+!Adc=v8g">
-<field name="NUM">0.8</field>
-</shadow>
-</value>
-</block>
-</value>
-<next>
-<block type="variables_set" id=",|{ftx3fE*K,ur(5~HML">
-<field name="VAR" id="}E[KjBhQ{,B-`2?wL#`;">ArmLeft</field>
-<value name="VALUE">
-<block type="math_arithmetic" id="#i{L@q)u~A%jj3K!h_U^">
-<field name="OP">MULTIPLY</field>
-<value name="A">
-<shadow type="math_number">
-<field name="NUM">1</field>
-</shadow>
-<block type="variables_get" id="wBsi31rT2f.=9egO[3l2">
-<field name="VAR" id="}E[KjBhQ{,B-`2?wL#`;">ArmLeft</field>
-</block>
-</value>
-<value name="B">
-<shadow type="math_number" id=",eqa075y^sbHfXOSZk|T">
-<field name="NUM">0.8</field>
-</shadow>
-</value>
-</block>
-</value>
-</block>
-</next>
-</block>
-</statement>
-<next>
-<block type="controls_if" id="B6R+BM?^B[~[{(#T{EQ1">
-<value name="IF0">
-<block type="logic_operation" id="R0]O5n76sKyi(y@z/j@I">
-<field name="OP">OR</field>
-<value name="A">
-<block type="logic_compare" id="FF8k/5n@?%;HK.%Z/gZL">
-<field name="OP">LT</field>
-<value name="A">
-<block type="variables_get" id="OD2h.X8L4()FRT(P$8kR">
-<field name="VAR" id="XjGQEZIy|)e_yBaa,d[g">RightWithDrift</field>
-</block>
-</value>
-<value name="B">
-<block type="math_number" id="NiwSm.w=cn((?F5}rm3O">
-<field name="NUM">3.5</field>
-</block>
-</value>
-</block>
-</value>
-<value name="B">
-<block type="logic_compare" id=",t!yQ=?9E)NN1hR+8=W7">
-<field name="OP">LT</field>
-<value name="A">
-<block type="variables_get" id="!RWIX@!C%hmQ.4+@l}JV">
-<field name="VAR" id="PQBZnc]oc.V%GjJ[04M?">LeftWithDrift</field>
-</block>
-</value>
-<value name="B">
-<block type="math_number" id="q`5^X2p~HKua%_;flS`y">
-<field name="NUM">3.5</field>
-</block>
-</value>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id="3r.:fTRjZN$h$xe#bUY4">
-<field name="VAR" id="F=:~q25VauAr-vBBy?)g">ArmRight</field>
-<value name="VALUE">
-<block type="math_arithmetic" id="K6mjYG*c~wZ2juESpfP3">
-<field name="OP">MULTIPLY</field>
-<value name="A">
-<shadow type="math_number">
-<field name="NUM">1</field>
-</shadow>
-<block type="variables_get" id="n!Y{p[]40MT.whxkzyBp">
-<field name="VAR" id="F=:~q25VauAr-vBBy?)g">ArmRight</field>
-</block>
-</value>
-<value name="B">
-<shadow type="math_number" id="@^O0:uP1[#,`oas`TII,">
-<field name="NUM">0.5</field>
-</shadow>
-</value>
-</block>
-</value>
-<next>
-<block type="variables_set" id="e_/N@.mXOc^LN3W?m4be">
-<field name="VAR" id="}E[KjBhQ{,B-`2?wL#`;">ArmLeft</field>
-<value name="VALUE">
-<block type="math_arithmetic" id=")G6[.CvqVGZx-rDra=[S">
-<field name="OP">MULTIPLY</field>
-<value name="A">
-<shadow type="math_number">
-<field name="NUM">1</field>
-</shadow>
-<block type="variables_get" id="=$O0R0NPa2L.n^wx`;Zg">
-<field name="VAR" id="}E[KjBhQ{,B-`2?wL#`;">ArmLeft</field>
-</block>
-</value>
-<value name="B">
-<shadow type="math_number" id=",-d!gurTcTYcI_6+[fIX">
-<field name="NUM">0.5</field>
-</shadow>
-</value>
-</block>
-</value>
-</block>
-</next>
-</block>
-</statement>
-<next>
-<block type="controls_if" id=";$ZVAiYO{Slxj16yr.:l">
-<value name="IF0">
-<block type="logic_operation" id="$!D-#kI?`740)yhC*@BN">
-<field name="OP">OR</field>
-<value name="A">
-<block type="logic_compare" id="pq.Dg9etKcQ(2gPghI1X">
-<field name="OP">GT</field>
-<value name="A">
-<block type="variables_get" id="(JeLfpPPXd%0w[XO*4vu">
-<field name="VAR" id="7j|BBm2i)urUJfE6|3e0">LeftInCm</field>
-</block>
-</value>
-<value name="B">
-<block type="variables_get" id="gw=D*a98~]ZX8.UlzHHU">
-<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
-</block>
-</value>
-</block>
-</value>
-<value name="B">
-<block type="logic_compare" id="zc^__?iEfR[kL)yrt1Hb">
-<field name="OP">GT</field>
-<value name="A">
-<block type="variables_get" id="m2%X.msPII^:h|n+7r}C">
-<field name="VAR" id="TtH-hD5`v4c]D=rlX88=">RightInCm</field>
-</block>
-</value>
-<value name="B">
-<block type="variables_get" id="`?u*OmR_Jxa!S@X`.uN/">
-<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
-</block>
-</value>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
-<block type="controls_if" id="$J|d=jiI(]y:r)F[Xzs%">
-<mutation else="1"/>
-<value name="IF0">
-<block type="logic_compare" id="[Fn6a+i2`AYsGPxu:YX)">
-<field name="OP">GT</field>
-<value name="A">
-<block type="variables_get" id="h#R2}%@7fOy2k[xHm(5Q">
-<field name="VAR" id="7j|BBm2i)urUJfE6|3e0">LeftInCm</field>
-</block>
-</value>
-<value name="B">
-<block type="variables_get" id="%lMH%(H6/U2Vc[,PA#{!">
-<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id="VW.Zdzuf{0i^}WH7V.AD">
-<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">PID_bras</field>
-<value name="VALUE">
-<block type="procedures_callreturn" id="6X?6#y$xq8wcqU6Op67K">
-<mutation name="GetVoltageConpensed">
-<arg name="Consigne"/>
-</mutation>
-<value name="ARG0">
-<block type="misc_callJava_return" id="-2,;C4`?]Mw1i[|@ZvX(">
-<mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.Pid_RBL Calculate(int,double,double) double" fullClassName="org.firstinspires.ftc.teamcode.Pid_RBL" simpleName="Pid_RBL" parameterCount="3" returnType="double" color="289" heading="call Java method" comment="calcul du PID" tooltip="Calcule la sortie PID en fonction de la consigne et de la mesure" accessMethod="callJava_String" convertReturnValue="Number" argLabel0="ID" argType0="int" argAuto0="" argLabel1="consigne" argType1="double" argAuto1="" argLabel2="mesure" argType2="double" argAuto2=""/>
-<field name="CLASS_NAME">Pid_RBL</field>
-<field name="METHOD_NAME">Calculate</field>
-<comment pinned="false" h="80" w="160">calcul du PID</comment>
-<value name="ARG0">
-<shadow type="math_number" id="tX$QWw*GRD2LtW2w44Va">
-<field name="NUM">7</field>
-</shadow>
-</value>
-<value name="ARG1">
-<shadow type="math_number" id="H11/VMbcqFmEadTW)0/2">
-<field name="NUM">0</field>
-</shadow>
-<block type="variables_get" id="!3L^R.MdD]Xi$NE#V6~u">
-<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
-</block>
-</value>
-<value name="ARG2">
-<shadow type="math_number" id="j9eZClK4-eP`uDy{_iIn">
-<field name="NUM">0</field>
-</shadow>
-<block type="variables_get" id="^@5oWNIy!PO-V{|7]l+c">
-<field name="VAR" id="7j|BBm2i)urUJfE6|3e0">LeftInCm</field>
-</block>
-</value>
-</block>
-</value>
-</block>
-</value>
-</block>
-</statement>
-<statement name="ELSE">
-<block type="variables_set" id="n.MEVdZ]OanXq_iXYxMb">
-<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">PID_bras</field>
-<value name="VALUE">
-<block type="procedures_callreturn" id="y{A+w+x+:_$+*cgBxb(!">
-<mutation name="GetVoltageConpensed">
-<arg name="Consigne"/>
-</mutation>
-<value name="ARG0">
-<block type="misc_callJava_return" id="`=*z0je@h5H0l$A.PVC~">
-<mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.Pid_RBL Calculate(int,double,double) double" fullClassName="org.firstinspires.ftc.teamcode.Pid_RBL" simpleName="Pid_RBL" parameterCount="3" returnType="double" color="289" heading="call Java method" comment="calcul du PID" tooltip="Calcule la sortie PID en fonction de la consigne et de la mesure" accessMethod="callJava_String" convertReturnValue="Number" argLabel0="ID" argType0="int" argAuto0="" argLabel1="consigne" argType1="double" argAuto1="" argLabel2="mesure" argType2="double" argAuto2=""/>
-<field name="CLASS_NAME">Pid_RBL</field>
-<field name="METHOD_NAME">Calculate</field>
-<comment pinned="false" h="80" w="160">calcul du PID</comment>
-<value name="ARG0">
-<shadow type="math_number" id="WBtEZ-rvwKuyR9+B5cYk">
-<field name="NUM">7</field>
-</shadow>
-</value>
-<value name="ARG1">
-<shadow type="math_number" id="MRomok0|6l3w-cW+b(7T">
-<field name="NUM">0</field>
-</shadow>
-<block type="variables_get" id="*q]s==0h1}$OXl97nYqM">
-<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
-</block>
-</value>
-<value name="ARG2">
-<shadow type="math_number" id=";8,jQ9hi7EU[KV!**-Fo">
-<field name="NUM">0</field>
-</shadow>
-<block type="variables_get" id="^-x0=#Rr{z]0lov;9Hfq">
-<field name="VAR" id="TtH-hD5`v4c]D=rlX88=">RightInCm</field>
-</block>
-</value>
-</block>
-</value>
-</block>
-</value>
-</block>
-</statement>
-<next>
-<block type="controls_if" id="7w#5#a;enG4GFhqiaYUK">
-<value name="IF0">
-<block type="logic_compare" id="|F+mkBh~AOE-9,DX^+sr">
-<field name="OP">GT</field>
-<value name="A">
-<block type="math_single" id="H;Je#erK0Fq]zYMoxm~l">
-<field name="OP">ABS</field>
-<value name="NUM">
-<shadow type="math_number" id="g$v3taHazm*bg|-M#I:}">
-<field name="NUM">9</field>
-</shadow>
-<block type="variables_get" id=";~Y3Ya5,|1gWR#6=Y=.;">
-<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">PID_bras</field>
-</block>
-</value>
-</block>
-</value>
-<value name="B">
-<block type="math_number" id="}XL{?4UKI,Ujf7a|@vxw">
-<field name="NUM">1</field>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id="p#hZ)C2G-e+T`J6%KZY+">
-<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">PID_bras</field>
-<value name="VALUE">
-<block type="math_arithmetic" id="(.^=gd%]*:_6zvb;Qm_e">
-<field name="OP">DIVIDE</field>
-<value name="A">
-<shadow type="math_number" id="_|`)D_YQ5`PB5oa)#b.(">
-<field name="NUM">1</field>
-</shadow>
-<block type="variables_get" id="T(}gQI;8S3@FUnzQCa}|">
-<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">PID_bras</field>
-</block>
-</value>
-<value name="B">
-<shadow type="math_number" id="dnEE]9fj|2w}Qzuh~A[^">
-<field name="NUM">1</field>
-</shadow>
-<block type="math_single" id="XqS:20eG%$E;y(V)GT}*">
-<field name="OP">ABS</field>
-<value name="NUM">
-<shadow type="math_number">
-<field name="NUM">9</field>
-</shadow>
-<block type="variables_get" id="GW$Le!HRd^mqD^xS8~pL">
-<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">PID_bras</field>
-</block>
-</value>
-</block>
-</value>
-</block>
-</value>
-</block>
-</statement>
-<next>
-<block type="variables_set" id="y3(k-2Wo;$i3y8X%ILw8">
-<field name="VAR" id="F=:~q25VauAr-vBBy?)g">ArmRight</field>
-<value name="VALUE">
-<block type="variables_get" id="h+xySl9+8%K1IU#wL^$d">
-<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">PID_bras</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="pKo5s^RR$1)7RieWikiW">
-<field name="VAR" id="}E[KjBhQ{,B-`2?wL#`;">ArmLeft</field>
-<value name="VALUE">
-<block type="variables_get" id="kX7;Gw=A%E~^v_D8=Gh}">
-<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">PID_bras</field>
-</block>
-</value>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
-<next>
-<block type="controls_if" id="Y}C_2a$xajQ|2#rtek^D">
-<value name="IF0">
-<block type="logic_operation" id="sybA.g~.!aG:,:z3-Tv|">
-<field name="OP">OR</field>
-<value name="A">
-<block type="touchSensor_getProperty_Boolean" id="H|I}0RmR)Q$wK?bS%#fh">
-<field name="IDENTIFIER">Touch2AsTouchSensor</field>
-<field name="PROP">IsPressed</field>
-<data>{"IDENTIFIER":"Touch2"}</data>
-</block>
-</value>
-<value name="B">
-<block type="touchSensor_getProperty_Boolean" id="PopW?nYkPKlRE0a^MKRr">
-<field name="IDENTIFIER">Touch1AsTouchSensor</field>
-<field name="PROP">IsPressed</field>
-<data>{"IDENTIFIER":"Touch1"}</data>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id="Q(a.y2GtGu-,FFhC4pd(">
-<field name="VAR" id="9$#cwip;UE0KM!pR$=7{">DriftRight</field>
-<value name="VALUE">
-<block type="math_arithmetic" id="34bmjWciHL*@}px;B#GC">
-<field name="OP">MINUS</field>
-<value name="A">
-<shadow type="math_number" id="O;(AQ69S?t.~e:CBr(J}">
-<field name="NUM">0</field>
-</shadow>
-</value>
-<value name="B">
-<shadow type="math_number" id="KWX%*He%rOK,mPxw[!T?">
-<field name="NUM">1</field>
-</shadow>
-<block type="dcMotor_getProperty_Number" id="/kVTq#Uj[;5,@8,hnGr{">
-<field name="IDENTIFIER">ArmRightAsDcMotor</field>
-<field name="PROP">CurrentPosition</field>
-<data>{"IDENTIFIER":"ArmRight"}</data>
-</block>
-</value>
-</block>
-</value>
-<next>
-<block type="variables_set" id="]A7pzV;m}YC6|,vBX3hO">
-<field name="VAR" id="Rp0lPekaC/RdrSHhJ}7}">DriftLeft</field>
-<value name="VALUE">
-<block type="math_arithmetic" id="[6pP2Mz~Ufkz0I|xrG3F">
-<field name="OP">MINUS</field>
-<value name="A">
-<shadow type="math_number" id="4X{Fe_8[8Xv`oPL)YE?-">
-<field name="NUM">0</field>
-</shadow>
-</value>
-<value name="B">
-<shadow type="math_number">
-<field name="NUM">1</field>
-</shadow>
-<block type="dcMotor_getProperty_Number" id="cY)BEq!ZONK:qf.~.vgP">
-<field name="IDENTIFIER">ArmLeftAsDcMotor</field>
-<field name="PROP">CurrentPosition</field>
-<data>{"IDENTIFIER":"ArmLeft"}</data>
-</block>
-</value>
-</block>
-</value>
-<next>
-<block type="controls_if" id="(83+%cd;`|34a3F?CE0,">
-<value name="IF0">
-<block type="logic_compare" id="sx5c,9U0`z4U_nGL@f~W">
-<field name="OP">LT</field>
-<value name="A">
-<block type="variables_get" id="W4WeVvL]7:/wd1fbc?Dp">
-<field name="VAR" id="SGjtJhYONL-$M@47/%de">LeftStickInversé</field>
-</block>
-</value>
-<value name="B">
-<block type="math_number" id="oBZE:{~GvJdHh[ih3cp+">
-<field name="NUM">0</field>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id="-KQpB$[T{S:Yzp[QlHAE">
-<field name="VAR" id="}E[KjBhQ{,B-`2?wL#`;">ArmLeft</field>
-<value name="VALUE">
-<block type="math_number" id="jo`o%Hux$SX(8;0$|/fS">
-<field name="NUM">0</field>
-</block>
-</value>
-<next>
-<block type="variables_set" id="Q^9`7(+M^C0#{8G7$2P^">
-<field name="VAR" id="F=:~q25VauAr-vBBy?)g">ArmRight</field>
-<value name="VALUE">
-<block type="math_number" id="88SLj];|1#;1,-.2kQiZ">
-<field name="NUM">0</field>
-</block>
-</value>
-</block>
-</next>
-</block>
-</statement>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
-<next>
-<block type="dcMotor_setProperty_Number" id="{JQJ!|9,HX*;K9scrCAd">
-<field name="IDENTIFIER">ArmLeftAsDcMotor</field>
-<field name="PROP">Power</field>
-<data>{"IDENTIFIER":"ArmLeft"}</data>
-<value name="VALUE">
-<shadow type="math_number" id="3AdNlF3}M=En%7b**~T|">
-<field name="NUM">1</field>
-</shadow>
-<block type="math_arithmetic" id="HOYJtzafnX-T,o@5XTw#">
-<field name="OP">MULTIPLY</field>
-<value name="A">
-<shadow type="math_number" id="(IjlC[R@#0Y_i*%8lx0w">
-<field name="NUM">1</field>
-</shadow>
-<block type="variables_get" id="_N+^cyFxw=o5.409OrkI">
-<field name="VAR" id="}E[KjBhQ{,B-`2?wL#`;">ArmLeft</field>
-</block>
-</value>
-<value name="B">
-<shadow type="math_number" id="];[1NrGz|{$rMl|u!C^%">
-<field name="NUM">0.8</field>
-</shadow>
-</value>
-</block>
-</value>
-<next>
-<block type="dcMotor_setProperty_Number" id="b?$%1-pkv.=,FM$p=^-p">
-<field name="IDENTIFIER">ArmRightAsDcMotor</field>
-<field name="PROP">Power</field>
-<data>{"IDENTIFIER":"ArmRight"}</data>
-<value name="VALUE">
-<shadow type="math_number" id="K6=1$WD;$I?@_)VxkonM">
-<field name="NUM">1</field>
-</shadow>
-<block type="math_arithmetic" id="*wG[2[5dUGi)(S,87HF7">
-<field name="OP">MULTIPLY</field>
-<value name="A">
-<shadow type="math_number" id="|5A+e)tBvAQ:?LE`1QG|">
-<field name="NUM">1</field>
-</shadow>
-<block type="variables_get" id="kK!eiNW)znFtXS0GWMEW">
-<field name="VAR" id="F=:~q25VauAr-vBBy?)g">ArmRight</field>
-</block>
-</value>
-<value name="B">
-<shadow type="math_number" id="8kP,BM%KS7=QR7U[nuM3">
-<field name="NUM">0.8</field>
-</shadow>
-</value>
-</block>
-</value>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
-</block>
-<block type="procedures_defnoreturn" id="]jx01Gb-(sN(4w@E|n=," collapsed="true" x="470" y="-21">
-<field name="NAME">Torres</field>
-<comment pinned="false" h="80" w="160">Describe this function...</comment>
-<statement name="STACK">
-<block type="variables_set" id="u08lU`XOYb3rXgyjxsCv">
-<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
-<value name="VALUE">
-<block type="math_arithmetic" id="]%;Q@tx3nIlX|229A0IQ">
-<field name="OP">MINUS</field>
-<value name="A">
-<shadow type="math_number">
-<field name="NUM">1</field>
-</shadow>
-<block type="gamepad_getProperty_Number" id="h![s$*Nq/iRKpWFgazZ0">
+<block type="gamepad_getProperty_Boolean" id="OIA4G.FtGU%~005.~I@/">
 <field name="IDENTIFIER">gamepad1</field>
-<field name="PROP">RightTrigger</field>
+<field name="PROP">Triangle</field>
 <data>{"IDENTIFIER":"gamepad1"}</data>
 </block>
 </value>
-<value name="B">
-<shadow type="math_number">
-<field name="NUM">1</field>
-</shadow>
-<block type="gamepad_getProperty_Number" id="klNwUuG-ja/n!d9h.i61">
-<field name="IDENTIFIER">gamepad1</field>
-<field name="PROP">LeftTrigger</field>
-<data>{"IDENTIFIER":"gamepad1"}</data>
-</block>
-</value>
-</block>
-</value>
-<next>
-<block type="controls_if" id="AFaN5nma}$jCBP8RU%k?">
-<mutation else="1"/>
-<value name="IF0">
-<block type="logic_compare" id="RVL~c2S/bu9)HOq.T(~c">
-<field name="OP">GTE</field>
-<value name="A">
-<block type="variables_get" id="u!IUJ^2m6|*7;EvLeJQB">
-<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
-</block>
-</value>
-<value name="B">
-<block type="math_number" id="2atoh.n/P[6;zS^mAG*R">
-<field name="NUM">0</field>
-</block>
-</value>
-</block>
-</value>
 <statement name="DO0">
-<block type="variables_set" id="qC20Z^lBfZK1L48dba~Z">
-<field name="VAR" id="ti(D*D0@r{qXxl]rPph-">TorresCoef</field>
+<block type="variables_set" id="ZyK)`_4H3!}a_xr+@Xb`">
+<field name="VAR" id="z4#d!h/BuM!]JhRasOwF">CArm</field>
 <value name="VALUE">
-<block type="math_arithmetic" id="kyi+je{@-fSblyvM;X{t">
-<field name="OP">ADD</field>
-<value name="A">
-<shadow type="math_number" id="iMxM_.PM?iw3nW@u.Ltf">
-<field name="NUM">0.5</field>
-</shadow>
-</value>
-<value name="B">
-<shadow type="math_number">
-<field name="NUM">1</field>
-</shadow>
-<block type="math_arithmetic" id="4`aFz9G6$h{Jo6C.U3~9" inline="false">
+<block type="math_arithmetic" id="9+M/+O1A8=:rL:yW,1rq">
 <field name="OP">DIVIDE</field>
 <value name="A">
-<shadow type="math_number">
-<field name="NUM">0.5</field>
+<shadow type="math_number" id="Fjq]hkB.}{yp{^Jzo9S;">
+<field name="NUM">50</field>
 </shadow>
-<block type="math_arithmetic" id="/z#wK}yG+QB6gC^{5bb4">
-<field name="OP">MULTIPLY</field>
-<value name="A">
-<shadow type="math_number" id="@[_t{=rTcTXeenY8cE*)">
-<field name="NUM">0.5</field>
-</shadow>
-<block type="math_arithmetic" id=".D1,MKQi:@DEb],xWr?V" inline="false">
-<field name="OP">DIVIDE</field>
-<value name="A">
-<shadow type="math_number" id="]:P@XvfR2b;Eu}$yhTqn">
-<field name="NUM">1</field>
-</shadow>
-<block type="math_arithmetic" id="ex3b$Bi!w7bVI#myFH~v">
-<field name="OP">ADD</field>
-<value name="A">
-<shadow type="math_number" id=";Io_$|l805XG!37BZIX3">
-<field name="NUM">1</field>
-</shadow>
-<block type="variables_get" id="?4HG])7$Q?}c/e;Ci8Be">
-<field name="VAR" id="7j|BBm2i)urUJfE6|3e0">LeftInCm</field>
-</block>
 </value>
 <value name="B">
-<shadow type="math_number" id="{?)=K:59%)3Q3hcFi/F=">
-<field name="NUM">1</field>
-</shadow>
-<block type="variables_get" id="0Lka{JYQHIfn1hbE{02f">
-<field name="VAR" id="TtH-hD5`v4c]D=rlX88=">RightInCm</field>
-</block>
-</value>
-</block>
-</value>
-<value name="B">
-<shadow type="math_number" id="z^bZyk53pb6coHgD@LZ4">
-<field name="NUM">2</field>
-</shadow>
-</value>
-</block>
-</value>
-<value name="B">
-<shadow type="math_number" id="4w{WOHg2YEll~Er-dd]Z">
-<field name="NUM">0.5</field>
-</shadow>
-</value>
-</block>
-</value>
-<value name="B">
-<shadow type="math_number" id="L6###xqTz)TrUCT8@(b/">
+<shadow type="math_number" id="#!Q3g8XFEhKkE@In=o0-">
 <field name="NUM">70</field>
 </shadow>
 </value>
 </block>
 </value>
 </block>
+</statement>
+<value name="IF1">
+<block type="gamepad_getProperty_Boolean" id="Z#A@|0G5Q{0Gy6O8;rG6">
+<field name="IDENTIFIER">gamepad1</field>
+<field name="PROP">Circle</field>
+<data>{"IDENTIFIER":"gamepad1"}</data>
+</block>
 </value>
-<next>
-<block type="controls_if" id="H(eGTQ1kf;S}ZveBLg^~">
-<value name="IF0">
-<block type="logic_compare" id="JltS]wfY@tJ%1GsV{}lk">
-<field name="OP">GT</field>
+<statement name="DO1">
+<block type="variables_set" id="G${{l9h=GMjHMv:MVl}v">
+<field name="VAR" id="z4#d!h/BuM!]JhRasOwF">CArm</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="1h9V~k)K;N2;grKx9m8w">
+<field name="OP">DIVIDE</field>
 <value name="A">
-<block type="variables_get" id="n|%G%4B?^}Jhi1KbsO%h">
-<field name="VAR" id="O0XlO4GYd|vzrMU~0]%.">TorresAngle</field>
+<shadow type="math_number" id="zW0(~k^|xh/uI_xi,1Sx">
+<field name="NUM">60</field>
+</shadow>
+</value>
+<value name="B">
+<shadow type="math_number" id="osWFOkpqW%agBkIYi|Ok">
+<field name="NUM">70</field>
+</shadow>
+</value>
+</block>
+</value>
+</block>
+</statement>
+<next>
+<block type="math_change" id="_D`mptfTI|Y{y2UnP%l^">
+<field name="VAR" id="z4#d!h/BuM!]JhRasOwF">CArm</field>
+<value name="DELTA">
+<shadow type="math_number" id="rlNK$t#XJanMvBMb(E?|">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_arithmetic" id=".(XmGEwdpnDnj``++4AJ" inline="false">
+<field name="OP">DIVIDE</field>
+<value name="A">
+<shadow type="math_number" id="4(xCK@_XVMIRV_|~Z:zQ">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_single" id="m{$4Vh0$xc22u#(iAU0d">
+<field name="OP">NEG</field>
+<value name="NUM">
+<shadow type="math_number" id="V*#1`e^OglV|Lg;|xXUL">
+<field name="NUM">9</field>
+</shadow>
+<block type="gamepad_getProperty_Number" id="r:},x@Ox_yrJDG0meF3A">
+<field name="IDENTIFIER">gamepad1</field>
+<field name="PROP">LeftStickY</field>
+<data>{"IDENTIFIER":"gamepad1"}</data>
+</block>
+</value>
 </block>
 </value>
 <value name="B">
-<block type="math_number" id="89:e0ED,:b8QO{QBImg5">
-<field name="NUM">0</field>
+<shadow type="math_number" id="xqup%RT2tp};6Q2{+[qQ">
+<field name="NUM">20</field>
+</shadow>
+</value>
 </block>
 </value>
+<next>
+<block type="controls_if" id="iU1@0(@;h8:/8M#Y2oWn">
+<mutation elseif="1"/>
+<value name="IF0">
+<block type="gamepad_getProperty_Boolean" id="Kbb07Ng!i2J}%a]rnuhh">
+<field name="IDENTIFIER">gamepad1</field>
+<field name="PROP">Square</field>
+<data>{"IDENTIFIER":"gamepad1"}</data>
 </block>
 </value>
 <statement name="DO0">
-<block type="math_change" id="HBc$-j@CKO%+tg7-,Cg9">
-<field name="VAR" id="ti(D*D0@r{qXxl]rPph-">TorresCoef</field>
-<value name="DELTA">
-<shadow type="math_number" id="/Q20!@J}w+dA`tLN.M~6">
-<field name="NUM">1</field>
-</shadow>
-<block type="math_single" id="kM|I|at,7/a,QnL3^;v9">
-<field name="OP">NEG</field>
-<value name="NUM">
-<shadow type="math_number" id="M@+BF%{%waD;G}Vz{Z/2">
-<field name="NUM">9</field>
-</shadow>
-<block type="math_arithmetic" id="Wi1RXAnP4tS=A#mj3i$n" inline="false">
+<block type="variables_set" id="x0z:Ag,z6KJ?:,87[|S8">
+<field name="VAR" id="rs3Fn{[fT#./].P6*1ab">CTorres</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="prv@[=zI5d|l8|L6h}7k">
 <field name="OP">DIVIDE</field>
 <value name="A">
-<shadow type="math_number" id="T`[qa+AQ[%;^:,#f)?LC">
-<field name="NUM">1</field>
+<shadow type="math_number" id="=xp;pdB5BUczKX|4E/`h">
+<field name="NUM">50</field>
 </shadow>
-<block type="math_arithmetic" id="xFygsl9[[BdO:z8Ci{WL">
-<field name="OP">MULTIPLY</field>
+<block type="math_arithmetic" id="kVTGi0LU]ImaFz+[k2Nn">
+<field name="OP">ADD</field>
 <value name="A">
-<shadow type="math_number" id="kc0s5ohG;fTdnuzZFPgU">
-<field name="NUM">1</field>
+<shadow type="math_number" id="#.NF-NuDQ4nRz4Y[{6/#">
+<field name="NUM">50</field>
 </shadow>
-<block type="variables_get" id="P#3hr/JXda@@,E/Ni9_5">
-<field name="VAR" id="O0XlO4GYd|vzrMU~0]%.">TorresAngle</field>
-</block>
 </value>
 <value name="B">
-<shadow type="math_number" id="q=9pNTTUsgK5(whXV4[X">
-<field name="NUM">0.1</field>
+<shadow type="math_number" id="Z-+{,,^0-{+%etSN:V4(">
+<field name="NUM">10.3</field>
 </shadow>
 </value>
 </block>
 </value>
 <value name="B">
-<shadow type="math_number" id="nyLR_LONcOr|[ta[rnqI">
-<field name="NUM">90</field>
+<shadow type="math_number" id="k]l=wiTdFSVrarqwam4S">
+<field name="NUM">125</field>
 </shadow>
 </value>
 </block>
 </value>
 </block>
+</statement>
+<value name="IF1">
+<block type="gamepad_getProperty_Boolean" id="pHJ%!o-!G%@D4]cN##dT">
+<field name="IDENTIFIER">gamepad1</field>
+<field name="PROP">Cross</field>
+<data>{"IDENTIFIER":"gamepad1"}</data>
+</block>
 </value>
+<statement name="DO1">
+<block type="variables_set" id="#3PN].C!?*.]sG*bFh/`">
+<field name="VAR" id="rs3Fn{[fT#./].P6*1ab">CTorres</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="(~`0~VM2_ri@0ReU}jMU">
+<field name="OP">DIVIDE</field>
+<value name="A">
+<shadow type="math_number" id="O87AC@[aDxV*hP[,PUgP">
+<field name="NUM">80</field>
+</shadow>
+<block type="math_arithmetic" id=":ppxK8-sPTsFpLokD`jk">
+<field name="OP">ADD</field>
+<value name="A">
+<shadow type="math_number" id="Z)5,!?Y)IEWqNng1AaC%">
+<field name="NUM">80</field>
+</shadow>
+</value>
+<value name="B">
+<shadow type="math_number" id="UQ{nDn$_pM$lsj5*0D,_">
+<field name="NUM">10.3</field>
+</shadow>
+</value>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="GX9Vm0t6.FP+~Sz73v_l">
+<field name="NUM">125</field>
+</shadow>
+</value>
+</block>
+</value>
+</block>
+</statement>
+<next>
+<block type="procedures_callnoreturn" id="yvwliu|przU?B~yWj:eV" disabled="true">
+<mutation name="Pince_commands"/>
+<next>
+<block type="procedures_callnoreturn" id="#|vI?qJ#vld!0Mp|BC}T" disabled="true">
+<mutation name="Mecanum_DriveTrain"/>
+<next>
+<block type="procedures_callnoreturn" id="{n~[=:S{68=n*due/eih" disabled="true">
+<mutation name="TeleOp_Motor_SetSpeed"/>
+<next>
+<block type="procedures_callnoreturn" id="2n@0eke`Dq$Z%/mFvH*i">
+<mutation name="ExtensibleArm">
+<arg name="ConsigneArm"/>
+</mutation>
+<value name="ARG0">
+<block type="variables_get" id="UZGZrnhwO.t?0MvFWv:n">
+<field name="VAR" id="z4#d!h/BuM!]JhRasOwF">CArm</field>
+</block>
+</value>
+<next>
+<block type="procedures_callnoreturn" id="zf9Ielm5!;cbJfuNOqBV">
+<mutation name="Torres">
+<arg name="TorresConsigne"/>
+</mutation>
+<value name="ARG0">
+<block type="variables_get" id="Tzd:uOUnrlzt2RY`/XFR">
+<field name="VAR" id="rs3Fn{[fT#./].P6*1ab">CTorres</field>
+</block>
+</value>
+<next>
+<block type="procedures_callnoreturn" id="^0#-D7oPcUlwtr+pRkyS">
+<mutation name="Telemetry"/>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
 </block>
 </statement>
 </block>
 </next>
 </block>
 </statement>
-<statement name="ELSE">
-<block type="variables_set" id="V8NGIVwI+I_i,8`Rr:2n">
-<field name="VAR" id="ti(D*D0@r{qXxl]rPph-">TorresCoef</field>
-<value name="VALUE">
-<block type="math_number" id="e^!U/yvu/R2C([z,(quT">
-<field name="NUM">0.3</field>
 </block>
-</value>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
 </block>
 </statement>
+</block>
+<block type="procedures_defnoreturn" id="6-B*x]]9~u;8VO9e!o4Q" collapsed="true" x="598" y="-50">
+<field name="NAME">Init Motor</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+<statement name="STACK">
+<block type="dcMotor_setProperty_Direction" id="=gUtSt`_FWh#)u2,gxMn">
+<field name="IDENTIFIER">TowerRightAsDcMotor</field>
+<field name="PROP">Direction</field>
+<data>{"IDENTIFIER":"TowerRight"}</data>
+<value name="VALUE">
+<shadow type="dcMotor_typedEnum_direction" id="LjHAggclvVu*d*~bf?Hm">
+<field name="DIRECTION">REVERSE</field>
+</shadow>
+</value>
 <next>
-<block type="controls_if" id="FRK:1mHb))$f||u7KK`8">
-<mutation else="1"/>
-<value name="IF0">
-<block type="logic_compare" id="`z0rlp~`N6@tAg23C`Zt">
-<field name="OP">NEQ</field>
-<value name="A">
-<block type="math_arithmetic" id="CSt9p{zk]x|.xCg;i$lN">
-<field name="OP">MINUS</field>
-<value name="A">
-<shadow type="math_number">
-<field name="NUM">1</field>
-</shadow>
-<block type="gamepad_getProperty_Number" id="*ASX`@e#P}$6hp{CqaD6">
-<field name="IDENTIFIER">gamepad1</field>
-<field name="PROP">RightTrigger</field>
-<data>{"IDENTIFIER":"gamepad1"}</data>
-</block>
-</value>
-<value name="B">
-<shadow type="math_number">
-<field name="NUM">1</field>
-</shadow>
-<block type="gamepad_getProperty_Number" id="|p#10v{)*Lc-DvRLYvx0">
-<field name="IDENTIFIER">gamepad1</field>
-<field name="PROP">LeftTrigger</field>
-<data>{"IDENTIFIER":"gamepad1"}</data>
-</block>
-</value>
-</block>
-</value>
-<value name="B">
-<block type="math_number" id="vLcivhZlllj3c}-13rxZ">
-<field name="NUM">0</field>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id="P6ibP(|%F7D9KP7UJ|YD">
-<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
+<block type="dcMotor_setProperty_Direction" id="1sS]kwk2/v#R]?J?;[O6">
+<field name="IDENTIFIER">ArmRightAsDcMotor</field>
+<field name="PROP">Direction</field>
+<data>{"IDENTIFIER":"ArmRight"}</data>
 <value name="VALUE">
-<block type="math_arithmetic" id="4(CNMT#I:o4jipS!8z:4">
-<field name="OP">MULTIPLY</field>
-<value name="A">
-<shadow type="math_number" id="_DWU8XLUVp1~Z-;phJ3p">
-<field name="NUM">1</field>
+<shadow type="dcMotor_typedEnum_direction" id="QLfG/}Zb}R8%I53X[kGO">
+<field name="DIRECTION">REVERSE</field>
 </shadow>
-<block type="variables_get" id="$:-l@uJrkwe.U=e/roHa">
-<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
-</block>
 </value>
-<value name="B">
-<shadow type="math_number" id="Q^_9d$}#gpt[A(IAA^;,">
-<field name="NUM">1</field>
-</shadow>
-<block type="variables_get" id="9P8,?HW2O{ed9uCQLeKB">
-<field name="VAR" id="ti(D*D0@r{qXxl]rPph-">TorresCoef</field>
-</block>
-</value>
-</block>
-</value>
-</block>
-</statement>
-<statement name="ELSE">
-<block type="controls_if" id="![^P6Mb4O{2nLy=mP[do">
-<mutation else="1"/>
-<value name="IF0">
-<block type="logic_compare" id="LdrV!)NoeR;R[=ml.#au">
-<field name="OP">GT</field>
-<value name="A">
-<block type="variables_get" id="uN3C6Y$m6!dc,!#fFr=8">
-<field name="VAR" id="O0XlO4GYd|vzrMU~0]%.">TorresAngle</field>
-</block>
-</value>
-<value name="B">
-<block type="math_number" id="sxymFl/}I@(U^qKNV}-4">
-<field name="NUM">95</field>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id="}UBha2k{R_Wjyv4C^?Pd">
-<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
-<value name="VALUE">
-<block type="math_arithmetic" id="Ch%+AAem!HKPJIhBEFM;">
-<field name="OP">MULTIPLY</field>
-<value name="A">
-<shadow type="math_number" id="pCh|6e56MKI]]-G3e$Z2">
-<field name="NUM">1</field>
-</shadow>
-<block type="math_number" id="lUS.{adlJZJn-}a23G5o">
-<field name="NUM">-0.1</field>
-</block>
-</value>
-<value name="B">
-<shadow type="math_number">
-<field name="NUM">1</field>
-</shadow>
-<block type="variables_get" id="gyG0=yK#sh59`Ub7dSAo">
-<field name="VAR" id="ti(D*D0@r{qXxl]rPph-">TorresCoef</field>
-</block>
-</value>
-</block>
-</value>
-</block>
-</statement>
-<statement name="ELSE">
-<block type="variables_set" id="7zNQ.n1%IYqTh:=pJ:rM">
-<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
-<value name="VALUE">
-<block type="math_arithmetic" id="?kL15BkRa~X#P)*D~jdb">
-<field name="OP">MULTIPLY</field>
-<value name="A">
-<shadow type="math_number" id="DSxjWkPVeB~h;$227B[7">
-<field name="NUM">1</field>
-</shadow>
-<block type="variables_get" id="-RQCC[a0kHLi}NyOfOGQ">
-<field name="VAR" id="{VY]m$l42oBZjX09j.)Y">TorresStablePower</field>
-</block>
-</value>
-<value name="B">
-<shadow type="math_number" id="m[6Fdkk1@6hQ$}I3tdEW">
-<field name="NUM">1</field>
-</shadow>
-<block type="variables_get" id="LFBzzEnF0fH{E_kc3yd7">
-<field name="VAR" id="ti(D*D0@r{qXxl]rPph-">TorresCoef</field>
-</block>
-</value>
-</block>
-</value>
-</block>
-</statement>
-</block>
-</statement>
 <next>
-<block type="controls_if" id="xnolW]?Y^yS8R{$igF,,">
-<value name="IF0">
-<block type="logic_compare" id="rW175?D%DPm6lE{Uv~e1">
-<field name="OP">GT</field>
-<value name="A">
-<block type="math_single" id="K6Kp8~Qnr*~Qu_H%t~Ho">
-<field name="OP">ABS</field>
-<value name="NUM">
-<shadow type="math_number">
-<field name="NUM">9</field>
-</shadow>
-<block type="variables_get" id="PS+6:ksXH8]:,LE[tZ%T">
-<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
-</block>
-</value>
-</block>
-</value>
-<value name="B">
-<block type="math_number" id="~q_8FOSYS2}Y?fj}[an8">
-<field name="NUM">1</field>
-</block>
-</value>
-</block>
-</value>
-<statement name="DO0">
-<block type="variables_set" id="l_vXnqX?N;%c$p!`r;7:">
-<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
+<block type="dcMotor_setProperty_Direction" id="-Q.H~;*]X(%wZqFSfse3">
+<field name="IDENTIFIER">ArmLeftAsDcMotor</field>
+<field name="PROP">Direction</field>
+<data>{"IDENTIFIER":"ArmLeft"}</data>
 <value name="VALUE">
-<block type="math_arithmetic" id="(xCjdctbQ},P%X%XzDs)">
-<field name="OP">DIVIDE</field>
-<value name="A">
-<shadow type="math_number">
-<field name="NUM">1</field>
+<shadow type="dcMotor_typedEnum_direction" id="[P{|E:O?ey6H,3,LBLBU">
+<field name="DIRECTION">REVERSE</field>
 </shadow>
-<block type="variables_get" id="Pa(Kf%-$g6KG~!buulF9">
-<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
-</block>
 </value>
-<value name="B">
-<shadow type="math_number">
-<field name="NUM">1</field>
-</shadow>
-<block type="math_single" id="6~S6:3GA~J$]0bU7!gW;">
-<field name="OP">ABS</field>
-<value name="NUM">
-<shadow type="math_number">
-<field name="NUM">9</field>
-</shadow>
-<block type="variables_get" id="#[2$]{:=ys9r+R!3HtsZ">
-<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
-</block>
-</value>
-</block>
-</value>
-</block>
-</value>
-</block>
-</statement>
 <next>
-<block type="dcMotor_setDualProperty_Number" id="F*%,2vkD=|QU@kWb])y5">
-<field name="PROP">Power</field>
+<block type="dcMotor_setProperty_Direction" id="WLQMuy-ks*:cm.T!;=g)">
+<field name="IDENTIFIER">FrontRightDeadWheelRightAsDcMotor</field>
+<field name="PROP">Direction</field>
+<data>{"IDENTIFIER":"FrontRightDeadWheelRight"}</data>
+<value name="VALUE">
+<shadow type="dcMotor_typedEnum_direction" id="aWL*HHvgGjZ~t=#{!5Zj">
+<field name="DIRECTION">REVERSE</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setProperty_Direction" id="K#V2{gw7rY-xthizyOkd">
+<field name="IDENTIFIER">BackLeftDeadWheelLeftAsDcMotor</field>
+<field name="PROP">Direction</field>
+<data>{"IDENTIFIER":"BackLeftDeadWheelLeft"}</data>
+<value name="VALUE">
+<shadow type="dcMotor_typedEnum_direction" id="~V5(W{^Zw1%ibnZYL:Qo">
+<field name="DIRECTION">REVERSE</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setProperty_Direction" id="L85f82|m74?yaQENEb~w">
+<field name="IDENTIFIER">FrontLeftDeadWheelStrafeAsDcMotor</field>
+<field name="PROP">Direction</field>
+<data>{"IDENTIFIER":"FrontLeftDeadWheelStrafe"}</data>
+<value name="VALUE">
+<shadow type="dcMotor_typedEnum_direction" id="]UCbGswD1-)PLtxi5V|F">
+<field name="DIRECTION">REVERSE</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setDualProperty_RunMode" id="T[DyV~0]N_JQAXWQ14*y">
+<field name="PROP">Mode</field>
+<field name="IDENTIFIER1">ArmLeftAsDcMotor</field>
+<field name="IDENTIFIER2">ArmLeftAsDcMotor</field>
+<data>{"IDENTIFIER1":"ArmLeft","IDENTIFIER2":"ArmLeft"}</data>
+<value name="VALUE1">
+<shadow type="dcMotor_typedEnum_runMode" id="xe_-pIqO!!Yz.GvCNTJs">
+<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
+</shadow>
+</value>
+<value name="VALUE2">
+<shadow type="dcMotor_typedEnum_runMode" id="q)NbfwO{LGGY7x:#%w1n">
+<field name="RUN_MODE">RUN_WITHOUT_ENCODER</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setDualProperty_RunMode" id="$)B$Qd0GD#@O/(:c0x2{">
+<field name="PROP">Mode</field>
+<field name="IDENTIFIER1">ArmRightAsDcMotor</field>
+<field name="IDENTIFIER2">ArmRightAsDcMotor</field>
+<data>{"IDENTIFIER1":"ArmRight","IDENTIFIER2":"ArmRight"}</data>
+<value name="VALUE1">
+<shadow type="dcMotor_typedEnum_runMode" id="#?Yf6;O-v)n6hy/ec0`d">
+<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
+</shadow>
+</value>
+<value name="VALUE2">
+<shadow type="dcMotor_typedEnum_runMode" id="}dlG9Tg`P.kMx*%b6vnZ">
+<field name="RUN_MODE">RUN_WITHOUT_ENCODER</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setDualProperty_RunMode" id="YZj**Y}0Nqrbbtt%B*rp">
+<field name="PROP">Mode</field>
+<field name="IDENTIFIER1">BackLeftDeadWheelLeftAsDcMotor</field>
+<field name="IDENTIFIER2">BackLeftDeadWheelLeftAsDcMotor</field>
+<data>{"IDENTIFIER1":"BackLeftDeadWheelLeft","IDENTIFIER2":"BackLeftDeadWheelLeft"}</data>
+<value name="VALUE1">
+<shadow type="dcMotor_typedEnum_runMode" id="u6|q{m~H[,.gulZi@/oD">
+<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
+</shadow>
+</value>
+<value name="VALUE2">
+<shadow type="dcMotor_typedEnum_runMode" id="F@mQG`moxcrXC9$IQi7b">
+<field name="RUN_MODE">RUN_WITHOUT_ENCODER</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setDualProperty_RunMode" id=".0+Cbo%;.Wi{CaCA0@|)">
+<field name="PROP">Mode</field>
+<field name="IDENTIFIER1">BackRightAsDcMotor</field>
+<field name="IDENTIFIER2">BackRightAsDcMotor</field>
+<data>{"IDENTIFIER1":"BackRight","IDENTIFIER2":"BackRight"}</data>
+<value name="VALUE1">
+<shadow type="dcMotor_typedEnum_runMode" id="Y@QEB{2bh.%GyL?rWu-s">
+<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
+</shadow>
+</value>
+<value name="VALUE2">
+<shadow type="dcMotor_typedEnum_runMode" id="K-2#[P`MeATGl/cLe9}o">
+<field name="RUN_MODE">RUN_WITHOUT_ENCODER</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setDualProperty_RunMode" id="!,^JQ0gc(9=UqQ8Mt!hm">
+<field name="PROP">Mode</field>
+<field name="IDENTIFIER1">FrontLeftDeadWheelStrafeAsDcMotor</field>
+<field name="IDENTIFIER2">FrontLeftDeadWheelStrafeAsDcMotor</field>
+<data>{"IDENTIFIER1":"FrontLeftDeadWheelStrafe","IDENTIFIER2":"FrontLeftDeadWheelStrafe"}</data>
+<value name="VALUE1">
+<shadow type="dcMotor_typedEnum_runMode" id="tb5A0J.HM+OV?=V4VJY+">
+<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
+</shadow>
+</value>
+<value name="VALUE2">
+<shadow type="dcMotor_typedEnum_runMode" id="y6{HY7Zb!+IMwI_NiieY">
+<field name="RUN_MODE">RUN_WITHOUT_ENCODER</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setDualProperty_RunMode" id="KZLif_N[IOTDcd@s;,([">
+<field name="PROP">Mode</field>
+<field name="IDENTIFIER1">FrontRightDeadWheelRightAsDcMotor</field>
+<field name="IDENTIFIER2">FrontRightDeadWheelRightAsDcMotor</field>
+<data>{"IDENTIFIER1":"FrontRightDeadWheelRight","IDENTIFIER2":"FrontRightDeadWheelRight"}</data>
+<value name="VALUE1">
+<shadow type="dcMotor_typedEnum_runMode" id=";^T]SvIkxleUsUSUt10c">
+<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
+</shadow>
+</value>
+<value name="VALUE2">
+<shadow type="dcMotor_typedEnum_runMode" id="3chc$A@$0!|6spMq.CNW">
+<field name="RUN_MODE">RUN_WITHOUT_ENCODER</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setDualProperty_RunMode" id="DvzM:^f:)32o_D]Fv-;c">
+<field name="PROP">Mode</field>
+<field name="IDENTIFIER1">TowerLeftAsDcMotor</field>
+<field name="IDENTIFIER2">TowerLeftAsDcMotor</field>
+<data>{"IDENTIFIER1":"TowerLeft","IDENTIFIER2":"TowerLeft"}</data>
+<value name="VALUE1">
+<shadow type="dcMotor_typedEnum_runMode" id="}hc9,)]/j{xWD]L#[zvB">
+<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
+</shadow>
+</value>
+<value name="VALUE2">
+<shadow type="dcMotor_typedEnum_runMode" id="1p%H3_r-]u-`%{D++#u]">
+<field name="RUN_MODE">RUN_WITHOUT_ENCODER</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setDualProperty_RunMode" id="8K#~9`D%kWkr#sq?a9K,">
+<field name="PROP">Mode</field>
+<field name="IDENTIFIER1">TowerRightAsDcMotor</field>
+<field name="IDENTIFIER2">TowerRightAsDcMotor</field>
+<data>{"IDENTIFIER1":"TowerRight","IDENTIFIER2":"TowerRight"}</data>
+<value name="VALUE1">
+<shadow type="dcMotor_typedEnum_runMode" id="8lc(Gy8g%f.1g-Z;.zL*">
+<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
+</shadow>
+</value>
+<value name="VALUE2">
+<shadow type="dcMotor_typedEnum_runMode" id="?q).4zoQ*J+K^u0Y,)iC">
+<field name="RUN_MODE">RUN_WITHOUT_ENCODER</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setDualProperty_ZeroPowerBehavior" id="vvf+-ju,Y(9-_`:caf{p">
+<field name="PROP">ZeroPowerBehavior</field>
+<field name="IDENTIFIER1">ArmLeftAsDcMotor</field>
+<field name="IDENTIFIER2">ArmRightAsDcMotor</field>
+<data>{"IDENTIFIER1":"ArmLeft","IDENTIFIER2":"ArmRight"}</data>
+<value name="VALUE1">
+<shadow type="dcMotor_typedEnum_zeroPowerBehavior" id="[5DM=JWGa#cxk5$Qv,vQ">
+<field name="ZERO_POWER_BEHAVIOR">BRAKE</field>
+</shadow>
+</value>
+<value name="VALUE2">
+<shadow type="dcMotor_typedEnum_zeroPowerBehavior" id="cQflKyIz*chk5%m3}t}j">
+<field name="ZERO_POWER_BEHAVIOR">BRAKE</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setDualProperty_ZeroPowerBehavior" id="XMqmh=[~/:x5/-}Xva5:">
+<field name="PROP">ZeroPowerBehavior</field>
+<field name="IDENTIFIER1">BackLeftDeadWheelLeftAsDcMotor</field>
+<field name="IDENTIFIER2">BackRightAsDcMotor</field>
+<data>{"IDENTIFIER1":"BackLeftDeadWheelLeft","IDENTIFIER2":"BackRight"}</data>
+<value name="VALUE1">
+<shadow type="dcMotor_typedEnum_zeroPowerBehavior" id="w~SQiir=D^`.T!/MVP(g">
+<field name="ZERO_POWER_BEHAVIOR">BRAKE</field>
+</shadow>
+</value>
+<value name="VALUE2">
+<shadow type="dcMotor_typedEnum_zeroPowerBehavior" id="F4G2MQ8|,]M1t1et#h|}">
+<field name="ZERO_POWER_BEHAVIOR">BRAKE</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setDualProperty_ZeroPowerBehavior" id="(Pz5JSe#V,az7?*#.!R_">
+<field name="PROP">ZeroPowerBehavior</field>
+<field name="IDENTIFIER1">FrontLeftDeadWheelStrafeAsDcMotor</field>
+<field name="IDENTIFIER2">FrontRightDeadWheelRightAsDcMotor</field>
+<data>{"IDENTIFIER1":"FrontLeftDeadWheelStrafe","IDENTIFIER2":"FrontRightDeadWheelRight"}</data>
+<value name="VALUE1">
+<shadow type="dcMotor_typedEnum_zeroPowerBehavior" id="Y5xWP-)RiPurc4`a=3k4">
+<field name="ZERO_POWER_BEHAVIOR">BRAKE</field>
+</shadow>
+</value>
+<value name="VALUE2">
+<shadow type="dcMotor_typedEnum_zeroPowerBehavior" id=":#2w%oTLY]6fhGC49!EP">
+<field name="ZERO_POWER_BEHAVIOR">BRAKE</field>
+</shadow>
+</value>
+<next>
+<block type="dcMotor_setDualProperty_ZeroPowerBehavior" id="5kOI:i)3zfi_@@{qB0zQ">
+<field name="PROP">ZeroPowerBehavior</field>
 <field name="IDENTIFIER1">TowerLeftAsDcMotor</field>
 <field name="IDENTIFIER2">TowerRightAsDcMotor</field>
 <data>{"IDENTIFIER1":"TowerLeft","IDENTIFIER2":"TowerRight"}</data>
 <value name="VALUE1">
-<shadow type="math_number" id="X8[?|V)U$HA5Z#K)hM}_">
-<field name="NUM">1</field>
+<shadow type="dcMotor_typedEnum_zeroPowerBehavior" id="cwz(CCpU2vom;+@8m)VT">
+<field name="ZERO_POWER_BEHAVIOR">FLOAT</field>
 </shadow>
-<block type="variables_get" id="Fni8wy#Kc;4wqN4QVU%1">
-<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
-</block>
 </value>
 <value name="VALUE2">
-<shadow type="math_number" id="iin+3wrv-:wrTM%b1;c:">
-<field name="NUM">1</field>
+<shadow type="dcMotor_typedEnum_zeroPowerBehavior" id="8)E^{ySdjHL4jF+Io,fd">
+<field name="ZERO_POWER_BEHAVIOR">FLOAT</field>
 </shadow>
-<block type="variables_get" id="|Kf$7$ZGcI[2}8/NFkPB">
-<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
-</block>
 </value>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
 </block>
 </next>
 </block>
@@ -2352,7 +1636,7 @@ Stopped).</comment>
 </block>
 </statement>
 </block>
-<block type="procedures_defnoreturn" id="|4l6E`@kO]c|%(6ksb6#" collapsed="true" x="-79" y="52">
+<block type="procedures_defnoreturn" id="|4l6E`@kO]c|%(6ksb6#" collapsed="true" x="-84" y="48">
 <field name="NAME">TeleOp_Motor_SetSpeed</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 <statement name="STACK">
@@ -2520,229 +1804,6 @@ Stopped).</comment>
 <field name="VAR" id="^UpC/6pwOPh@TT!,8oVE">C</field>
 </block>
 </value>
-</block>
-<block type="procedures_defnoreturn" id="+2K%N[$-(|Dq4Ac~r:OS" collapsed="true" x="-334" y="117">
-<field name="NAME">Telemetry</field>
-<comment pinned="false" h="80" w="160">Describe this function...</comment>
-<statement name="STACK">
-<block type="telemetry_addNumericData_Number" id="DL((]e=jcT3a1.jsW;]h">
-<value name="KEY">
-<shadow type="text" id="[x=VzhXB5gdjn][HU*P+">
-<field name="TEXT">ArmLeft</field>
-</shadow>
-</value>
-<value name="NUMBER">
-<shadow type="math_number" id="avsoxFN7-I=DS1IGzAAn">
-<field name="NUM">123</field>
-</shadow>
-<block type="variables_get" id="ys%H~BOrB;x$Unnw}D!+">
-<field name="VAR" id="}E[KjBhQ{,B-`2?wL#`;">ArmLeft</field>
-</block>
-</value>
-<next>
-<block type="telemetry_addNumericData_Number" id="-+n@S~z;o?c0j%F3WI|-">
-<value name="KEY">
-<shadow type="text" id="Tq`E|,GFMBk,b.x!}|U~">
-<field name="TEXT">torrescoef</field>
-</shadow>
-</value>
-<value name="NUMBER">
-<shadow type="math_number" id="u3w;rg2!3X2l%!)s46J^">
-<field name="NUM">123</field>
-</shadow>
-<block type="variables_get" id="jKjG()YU=/V{5,9}Z-gB">
-<field name="VAR" id="ti(D*D0@r{qXxl]rPph-">TorresCoef</field>
-</block>
-</value>
-<next>
-<block type="telemetry_addNumericData_Number" id="J*Gp9}UIB]if~:ci.Gzl">
-<value name="KEY">
-<shadow type="text" id="3g#/TkjBNjZn])MaqTcl">
-<field name="TEXT">torrespower</field>
-</shadow>
-</value>
-<value name="NUMBER">
-<shadow type="math_number">
-<field name="NUM">123</field>
-</shadow>
-<block type="variables_get" id=":3;J-P}OJLhXKQ%V;zC%">
-<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
-</block>
-</value>
-<next>
-<block type="telemetry_addNumericData_Number" id="[W-8+hb8RL*)WG1#6ly{">
-<value name="KEY">
-<shadow type="text" id="jBv-Gut!#sh1RX~A0vYU">
-<field name="TEXT">TorresAngle</field>
-</shadow>
-</value>
-<value name="NUMBER">
-<shadow type="math_number">
-<field name="NUM">123</field>
-</shadow>
-<block type="variables_get" id="7GC)V4.~o8%dAr$(8pPW">
-<field name="VAR" id="O0XlO4GYd|vzrMU~0]%.">TorresAngle</field>
-</block>
-</value>
-<next>
-<block type="telemetry_addNumericData_Number" id="L*{(@c[Y!/joqPa%Q6$z">
-<value name="KEY">
-<shadow type="text" id="^^W2UxR:1,|{G#X6`9_J">
-<field name="TEXT">Right position</field>
-</shadow>
-</value>
-<value name="NUMBER">
-<shadow type="math_number" id="jY(@O(=_{h}e@@(73j/2">
-<field name="NUM">123</field>
-</shadow>
-<block type="variables_get" id="(LV%@C#z.ow4Zx~hHsA1">
-<field name="VAR" id="TtH-hD5`v4c]D=rlX88=">RightInCm</field>
-</block>
-</value>
-<next>
-<block type="telemetry_addNumericData_Number" id="i={81y?-zA?-4@kf_cm$">
-<value name="KEY">
-<shadow type="text" id="H.0j4SYqgl{8ru``Gw)H">
-<field name="TEXT">left position</field>
-</shadow>
-</value>
-<value name="NUMBER">
-<shadow type="math_number" id="[g}?GsRR2P1tFb,#=0y%">
-<field name="NUM">123</field>
-</shadow>
-<block type="variables_get" id="^IAJ2i.D^noCoxGl/hyB">
-<field name="VAR" id="7j|BBm2i)urUJfE6|3e0">LeftInCm</field>
-</block>
-</value>
-<next>
-<block type="telemetry_addNumericData_Number" id="@*)n+l|tRz%?l.)mx54Y">
-<value name="KEY">
-<shadow type="text" id="NQD1WCS!_kP,1o}l(#-0">
-<field name="TEXT">Max</field>
-</shadow>
-</value>
-<value name="NUMBER">
-<shadow type="math_number">
-<field name="NUM">123</field>
-</shadow>
-<block type="variables_get" id="Zao~XpYgS;DNE6-7;lEF">
-<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
-</block>
-</value>
-<next>
-<block type="telemetry_addNumericData_Number" id="U55,jt,8(wHk:Suc;.@e">
-<value name="KEY">
-<shadow type="text" id="LnMQrr_XVYFO[P]G|{v)">
-<field name="TEXT">Torres position</field>
-</shadow>
-</value>
-<value name="NUMBER">
-<shadow type="math_number" id="9?69Iawnt3/by`ys~kC^">
-<field name="NUM">123</field>
-</shadow>
-<block type="variables_get" id="9@(w});yMr^|%!?pNW=u">
-<field name="VAR" id="48;mfz,84(,Eok@uL-oN">TorresPosition</field>
-</block>
-</value>
-<next>
-<block type="telemetry_addNumericData_Number" id="O//RgW:RwHZnF[WC6_w8">
-<value name="KEY">
-<shadow type="text" id="j_*a[1.m%AHq$:4WzEeZ">
-<field name="TEXT">DriftTorres</field>
-</shadow>
-</value>
-<value name="NUMBER">
-<shadow type="math_number" id="^$n*?f[AJOQ6,#N0Y*?`">
-<field name="NUM">123</field>
-</shadow>
-<block type="variables_get" id="}1w(!$#RwI(4}gBD9#Xp">
-<field name="VAR" id="p-}UYxZ@B,-%jss@1DEW">DriftTorres</field>
-</block>
-</value>
-<next>
-<block type="telemetry_addNumericData_Number" id=".hiT]AG[U^)RTT1k,gA!">
-<value name="KEY">
-<shadow type="text" id="REytDM%z)?WaUqv#g+Jy">
-<field name="TEXT">L2</field>
-</shadow>
-</value>
-<value name="NUMBER">
-<shadow type="math_number" id="|89Z#0Z!omrh$b@.*:-u">
-<field name="NUM">123</field>
-</shadow>
-<block type="gamepad_getProperty_Number" id="zyT-;4cw|VKO~)r=eyr5">
-<field name="IDENTIFIER">gamepad1</field>
-<field name="PROP">LeftTrigger</field>
-<data>{"IDENTIFIER":"gamepad1"}</data>
-</block>
-</value>
-<next>
-<block type="telemetry_addNumericData_Number" id="Jws(Vl|3Dq2|i#1wONH7">
-<value name="KEY">
-<shadow type="text" id="sbo{X4:$7qA9]:?5Ll!n">
-<field name="TEXT">R2</field>
-</shadow>
-</value>
-<value name="NUMBER">
-<shadow type="math_number">
-<field name="NUM">123</field>
-</shadow>
-<block type="gamepad_getProperty_Number" id="T+]fn^9STxJl{aw.CmJy">
-<field name="IDENTIFIER">gamepad1</field>
-<field name="PROP">RightTrigger</field>
-<data>{"IDENTIFIER":"gamepad1"}</data>
-</block>
-</value>
-<next>
-<block type="telemetry_addNumericData_Number" id="+b~zFNW$]B9~u=b~p8bM">
-<value name="KEY">
-<shadow type="text" id="gXwVT/1#`*Uq+{mu2F4v">
-<field name="TEXT">navx </field>
-</shadow>
-</value>
-<value name="NUMBER">
-<shadow type="math_number" id="(P5jatf8xQwYIOX(dJfw">
-<field name="NUM">123</field>
-</shadow>
-<block type="misc_callJava_return" id="{:e,J5#9iSTr^iG{Y]##">
-<mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.Navx getYaw(org.firstinspires.ftc.robotcore.external.navigation.AngleUnit) double" fullClassName="org.firstinspires.ftc.teamcode.Navx" simpleName="Navx" parameterCount="1" returnType="double" color="289" heading="call Java method" comment="It returns the Yaw (or Z-angle) of the NavX Micro. Angles are in degrees." tooltip="get yaw" accessMethod="callJava_String" convertReturnValue="Number" argLabel0="Angle Unit" argType0="org.firstinspires.ftc.robotcore.external.navigation.AngleUnit" argAuto0=""/>
-<field name="CLASS_NAME">Navx</field>
-<field name="METHOD_NAME">getYaw</field>
-<comment pinned="false" h="80" w="160">It returns the Yaw (or Z-angle) of the NavX Micro. Angles are in degrees.</comment>
-<value name="ARG0">
-<shadow type="navigation_typedEnum_angleUnit" id="I4v@eJAiel(?|q?}=|HN">
-<field name="ANGLE_UNIT">DEGREES</field>
-</shadow>
-</value>
-</block>
-</value>
-<next>
-<block type="telemetry_update" id="?3v?DGvHAAS-dT5_;+r^"/>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
 </block>
 <block type="procedures_defnoreturn" id="$D_Ljr6z;?GJF$3!rCHE" collapsed="true" x="-82" y="126">
 <field name="NAME">corrected_joystic_imput</field>
@@ -2914,287 +1975,7 @@ Stopped).</comment>
 </block>
 </statement>
 </block>
-<block type="procedures_defnoreturn" id="6-B*x]]9~u;8VO9e!o4Q" collapsed="true" x="-85" y="161">
-<field name="NAME">Init Motor</field>
-<comment pinned="false" h="80" w="160">Describe this function...</comment>
-<statement name="STACK">
-<block type="dcMotor_setProperty_Direction" id="5mXX6xE{^/E}kl)EE.9`">
-<field name="IDENTIFIER">TowerRightAsDcMotor</field>
-<field name="PROP">Direction</field>
-<data>{"IDENTIFIER":"TowerRight"}</data>
-<value name="VALUE">
-<shadow type="dcMotor_typedEnum_direction" id="+:6J[5JFOLNv?ili%a$s">
-<field name="DIRECTION">REVERSE</field>
-</shadow>
-</value>
-<next>
-<block type="dcMotor_setProperty_Direction" id="QPneFBj.TJoy+aE_}i/p">
-<field name="IDENTIFIER">ArmRightAsDcMotor</field>
-<field name="PROP">Direction</field>
-<data>{"IDENTIFIER":"ArmRight"}</data>
-<value name="VALUE">
-<shadow type="dcMotor_typedEnum_direction" id="/n]~-U4`_Ld$QVs$oxGJ">
-<field name="DIRECTION">REVERSE</field>
-</shadow>
-</value>
-<next>
-<block type="dcMotor_setProperty_Direction" id="x^*Kfc#aLj}=_S,_uPWQ">
-<field name="IDENTIFIER">ArmLeftAsDcMotor</field>
-<field name="PROP">Direction</field>
-<data>{"IDENTIFIER":"ArmLeft"}</data>
-<value name="VALUE">
-<shadow type="dcMotor_typedEnum_direction" id="b#QPm=^6rXam:_dNvrQo">
-<field name="DIRECTION">REVERSE</field>
-</shadow>
-</value>
-<next>
-<block type="dcMotor_setProperty_Direction" id="nGARJ2cLkTY0XB:OyIXD">
-<field name="IDENTIFIER">BackLeftDeadWheelLeftAsDcMotor</field>
-<field name="PROP">Direction</field>
-<data>{"IDENTIFIER":"BackLeftDeadWheelLeft"}</data>
-<value name="VALUE">
-<shadow type="dcMotor_typedEnum_direction" id="Q/2Ti7DwIOzZ?y[Q]d1%">
-<field name="DIRECTION">REVERSE</field>
-</shadow>
-</value>
-<next>
-<block type="dcMotor_setProperty_Direction" id="K|kS;%{7}$@)M6U6z4cy">
-<field name="IDENTIFIER">FrontLeftDeadWheelStrafeAsDcMotor</field>
-<field name="PROP">Direction</field>
-<data>{"IDENTIFIER":"FrontLeftDeadWheelStrafe"}</data>
-<value name="VALUE">
-<shadow type="dcMotor_typedEnum_direction" id="S8OPbyHBA797=WQ5-d=O">
-<field name="DIRECTION">REVERSE</field>
-</shadow>
-</value>
-<next>
-<block type="dcMotor_setDualProperty_RunMode" id="{gI)(]i$#fD,gv6^27|j">
-<field name="PROP">Mode</field>
-<field name="IDENTIFIER1">ArmLeftAsDcMotor</field>
-<field name="IDENTIFIER2">ArmLeftAsDcMotor</field>
-<data>{"IDENTIFIER1":"ArmLeft","IDENTIFIER2":"ArmLeft"}</data>
-<value name="VALUE1">
-<shadow type="dcMotor_typedEnum_runMode" id="IbAABaM3o7k$B~l+YIoM">
-<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
-</shadow>
-</value>
-<value name="VALUE2">
-<shadow type="dcMotor_typedEnum_runMode" id="rcA4{jo~)nnDd3zhy~{}">
-<field name="RUN_MODE">RUN_WITHOUT_ENCODER</field>
-</shadow>
-</value>
-<next>
-<block type="dcMotor_setDualProperty_RunMode" id="Yme^KaBcV7inaS)Ghef5">
-<field name="PROP">Mode</field>
-<field name="IDENTIFIER1">ArmRightAsDcMotor</field>
-<field name="IDENTIFIER2">ArmRightAsDcMotor</field>
-<data>{"IDENTIFIER1":"ArmRight","IDENTIFIER2":"ArmRight"}</data>
-<value name="VALUE1">
-<shadow type="dcMotor_typedEnum_runMode" id="dWCOH16/@jH0:gPdVud5">
-<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
-</shadow>
-</value>
-<value name="VALUE2">
-<shadow type="dcMotor_typedEnum_runMode" id="-$pDa?nbmd0tdJl^)wYe">
-<field name="RUN_MODE">RUN_WITHOUT_ENCODER</field>
-</shadow>
-</value>
-<next>
-<block type="dcMotor_setDualProperty_RunMode" id="7+5Wk2kZ]ak|DW9EPW[j">
-<field name="PROP">Mode</field>
-<field name="IDENTIFIER1">BackLeftDeadWheelLeftAsDcMotor</field>
-<field name="IDENTIFIER2">BackLeftDeadWheelLeftAsDcMotor</field>
-<data>{"IDENTIFIER1":"BackLeftDeadWheelLeft","IDENTIFIER2":"BackLeftDeadWheelLeft"}</data>
-<value name="VALUE1">
-<shadow type="dcMotor_typedEnum_runMode" id="8=X;O@+6T`NE+3]b?wT(">
-<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
-</shadow>
-</value>
-<value name="VALUE2">
-<shadow type="dcMotor_typedEnum_runMode" id="W9oBJt:X2y[m+yJf%Z)5">
-<field name="RUN_MODE">RUN_WITHOUT_ENCODER</field>
-</shadow>
-</value>
-<next>
-<block type="dcMotor_setDualProperty_RunMode" id="~/ELGePFSNc8q`%~r1lD">
-<field name="PROP">Mode</field>
-<field name="IDENTIFIER1">BackRightAsDcMotor</field>
-<field name="IDENTIFIER2">BackRightAsDcMotor</field>
-<data>{"IDENTIFIER1":"BackRight","IDENTIFIER2":"BackRight"}</data>
-<value name="VALUE1">
-<shadow type="dcMotor_typedEnum_runMode" id="cYI+s?PmG,q!7e23)l8^">
-<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
-</shadow>
-</value>
-<value name="VALUE2">
-<shadow type="dcMotor_typedEnum_runMode" id="-y]?HwkU5b?#,[(=Lj;2">
-<field name="RUN_MODE">RUN_WITHOUT_ENCODER</field>
-</shadow>
-</value>
-<next>
-<block type="dcMotor_setDualProperty_RunMode" id="7!}u.|$?o4-yvEAjI.Ir">
-<field name="PROP">Mode</field>
-<field name="IDENTIFIER1">FrontLeftDeadWheelStrafeAsDcMotor</field>
-<field name="IDENTIFIER2">FrontLeftDeadWheelStrafeAsDcMotor</field>
-<data>{"IDENTIFIER1":"FrontLeftDeadWheelStrafe","IDENTIFIER2":"FrontLeftDeadWheelStrafe"}</data>
-<value name="VALUE1">
-<shadow type="dcMotor_typedEnum_runMode" id="97k[)0-lDF.nI+QiEStd">
-<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
-</shadow>
-</value>
-<value name="VALUE2">
-<shadow type="dcMotor_typedEnum_runMode" id="Lu*ZH6Zbhdj2ZBTxccb:">
-<field name="RUN_MODE">RUN_WITHOUT_ENCODER</field>
-</shadow>
-</value>
-<next>
-<block type="dcMotor_setDualProperty_RunMode" id="rMZ;B8x4w-~:o]od)uVc">
-<field name="PROP">Mode</field>
-<field name="IDENTIFIER1">FrontRightDeadWheelRightAsDcMotor</field>
-<field name="IDENTIFIER2">FrontRightDeadWheelRightAsDcMotor</field>
-<data>{"IDENTIFIER1":"FrontRightDeadWheelRight","IDENTIFIER2":"FrontRightDeadWheelRight"}</data>
-<value name="VALUE1">
-<shadow type="dcMotor_typedEnum_runMode" id="QPPvzcK6w0FF6Jwk^wX@">
-<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
-</shadow>
-</value>
-<value name="VALUE2">
-<shadow type="dcMotor_typedEnum_runMode" id="X/bU@/?)@Q`]x8v-DW:{">
-<field name="RUN_MODE">RUN_WITHOUT_ENCODER</field>
-</shadow>
-</value>
-<next>
-<block type="dcMotor_setDualProperty_RunMode" id="dY6r{ZQEGR{JJ,b/Pu+m">
-<field name="PROP">Mode</field>
-<field name="IDENTIFIER1">TowerLeftAsDcMotor</field>
-<field name="IDENTIFIER2">TowerLeftAsDcMotor</field>
-<data>{"IDENTIFIER1":"TowerLeft","IDENTIFIER2":"TowerLeft"}</data>
-<value name="VALUE1">
-<shadow type="dcMotor_typedEnum_runMode" id="u+J=zL$b8/jv]=Qt)br.">
-<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
-</shadow>
-</value>
-<value name="VALUE2">
-<shadow type="dcMotor_typedEnum_runMode" id="D4kY~w_9(c6alWW4Q1=R">
-<field name="RUN_MODE">RUN_WITHOUT_ENCODER</field>
-</shadow>
-</value>
-<next>
-<block type="dcMotor_setDualProperty_RunMode" id="Jh/*/^3I=)/C5W=l)`#d">
-<field name="PROP">Mode</field>
-<field name="IDENTIFIER1">TowerRightAsDcMotor</field>
-<field name="IDENTIFIER2">TowerRightAsDcMotor</field>
-<data>{"IDENTIFIER1":"TowerRight","IDENTIFIER2":"TowerRight"}</data>
-<value name="VALUE1">
-<shadow type="dcMotor_typedEnum_runMode" id="K{^:D}/MP%rA6|e:l+:g">
-<field name="RUN_MODE">STOP_AND_RESET_ENCODER</field>
-</shadow>
-</value>
-<value name="VALUE2">
-<shadow type="dcMotor_typedEnum_runMode" id="c.?4#NSou{piMY?H4k0^">
-<field name="RUN_MODE">RUN_WITHOUT_ENCODER</field>
-</shadow>
-</value>
-<next>
-<block type="dcMotor_setDualProperty_ZeroPowerBehavior" id="JSPLrLNIY?3YbUG4e]*.">
-<field name="PROP">ZeroPowerBehavior</field>
-<field name="IDENTIFIER1">ArmLeftAsDcMotor</field>
-<field name="IDENTIFIER2">ArmRightAsDcMotor</field>
-<data>{"IDENTIFIER1":"ArmLeft","IDENTIFIER2":"ArmRight"}</data>
-<value name="VALUE1">
-<shadow type="dcMotor_typedEnum_zeroPowerBehavior" id="@b+*^-,!BxB9ov5g$!{:">
-<field name="ZERO_POWER_BEHAVIOR">BRAKE</field>
-</shadow>
-</value>
-<value name="VALUE2">
-<shadow type="dcMotor_typedEnum_zeroPowerBehavior" id="bWSqxNV_M|i;)0=xY`n9">
-<field name="ZERO_POWER_BEHAVIOR">BRAKE</field>
-</shadow>
-</value>
-<next>
-<block type="dcMotor_setDualProperty_ZeroPowerBehavior" id="{U{%.~#URNmF/^K67:I.">
-<field name="PROP">ZeroPowerBehavior</field>
-<field name="IDENTIFIER1">BackLeftDeadWheelLeftAsDcMotor</field>
-<field name="IDENTIFIER2">BackRightAsDcMotor</field>
-<data>{"IDENTIFIER1":"BackLeftDeadWheelLeft","IDENTIFIER2":"BackRight"}</data>
-<value name="VALUE1">
-<shadow type="dcMotor_typedEnum_zeroPowerBehavior" id="`@Y?K4@Aj`522Be~$=C8">
-<field name="ZERO_POWER_BEHAVIOR">BRAKE</field>
-</shadow>
-</value>
-<value name="VALUE2">
-<shadow type="dcMotor_typedEnum_zeroPowerBehavior" id="Gi5z@!jD{)Gj[1M;dSa]">
-<field name="ZERO_POWER_BEHAVIOR">BRAKE</field>
-</shadow>
-</value>
-<next>
-<block type="dcMotor_setDualProperty_ZeroPowerBehavior" id="jFS|zk5jdrb-Olz*[O{@">
-<field name="PROP">ZeroPowerBehavior</field>
-<field name="IDENTIFIER1">FrontLeftDeadWheelStrafeAsDcMotor</field>
-<field name="IDENTIFIER2">FrontRightDeadWheelRightAsDcMotor</field>
-<data>{"IDENTIFIER1":"FrontLeftDeadWheelStrafe","IDENTIFIER2":"FrontRightDeadWheelRight"}</data>
-<value name="VALUE1">
-<shadow type="dcMotor_typedEnum_zeroPowerBehavior" id="+U{}5gg}$B9^*)KxOdEB">
-<field name="ZERO_POWER_BEHAVIOR">BRAKE</field>
-</shadow>
-</value>
-<value name="VALUE2">
-<shadow type="dcMotor_typedEnum_zeroPowerBehavior" id="~=,NEhik)cSzY]ufL1!w">
-<field name="ZERO_POWER_BEHAVIOR">BRAKE</field>
-</shadow>
-</value>
-<next>
-<block type="dcMotor_setDualProperty_ZeroPowerBehavior" id="Wno74=qgvqXN)Ps=T6mP">
-<field name="PROP">ZeroPowerBehavior</field>
-<field name="IDENTIFIER1">TowerLeftAsDcMotor</field>
-<field name="IDENTIFIER2">TowerRightAsDcMotor</field>
-<data>{"IDENTIFIER1":"TowerLeft","IDENTIFIER2":"TowerRight"}</data>
-<value name="VALUE1">
-<shadow type="dcMotor_typedEnum_zeroPowerBehavior" id="roz-_AD~`$Yn~[TCY_%_">
-<field name="ZERO_POWER_BEHAVIOR">BRAKE</field>
-</shadow>
-</value>
-<value name="VALUE2">
-<shadow type="dcMotor_typedEnum_zeroPowerBehavior" id="GPl4*#8@qvObDDgee]#U">
-<field name="ZERO_POWER_BEHAVIOR">BRAKE</field>
-</shadow>
-</value>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</next>
-</block>
-</statement>
-</block>
-<block type="procedures_defnoreturn" id="GHSpwyCGG]q|*w|/?m*}" collapsed="true" x="-139" y="259">
+<block type="procedures_defnoreturn" id="GHSpwyCGG]q|*w|/?m*}" collapsed="true" x="-80" y="168">
 <field name="NAME">Pince_commands</field>
 <comment pinned="false" h="80" w="160">Describe this function...</comment>
 <statement name="STACK">
@@ -3623,12 +2404,350 @@ Stopped).</comment>
 </block>
 </statement>
 </block>
-<block type="procedures_defnoreturn" id="PDaln8*!|L-1RN6AwYmr" collapsed="true" x="109" y="571">
+<block type="procedures_defnoreturn" id="+2K%N[$-(|Dq4Ac~r:OS" collapsed="true" x="-589" y="264">
+<field name="NAME">Telemetry</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+<statement name="STACK">
+<block type="telemetry_addNumericData_Number" id="DL((]e=jcT3a1.jsW;]h">
+<value name="KEY">
+<shadow type="text" id="[x=VzhXB5gdjn][HU*P+">
+<field name="TEXT">ArmLeft</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number" id="avsoxFN7-I=DS1IGzAAn">
+<field name="NUM">123</field>
+</shadow>
+<block type="variables_get" id="ys%H~BOrB;x$Unnw}D!+">
+<field name="VAR" id="}E[KjBhQ{,B-`2?wL#`;">ArmLeft</field>
+</block>
+</value>
+<next>
+<block type="telemetry_addNumericData_Number" id="-+n@S~z;o?c0j%F3WI|-">
+<value name="KEY">
+<shadow type="text" id="Tq`E|,GFMBk,b.x!}|U~">
+<field name="TEXT">torrescoef</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number" id="u3w;rg2!3X2l%!)s46J^">
+<field name="NUM">123</field>
+</shadow>
+<block type="variables_get" id="jKjG()YU=/V{5,9}Z-gB">
+<field name="VAR" id="ti(D*D0@r{qXxl]rPph-">TorresCoef</field>
+</block>
+</value>
+<next>
+<block type="telemetry_addNumericData_Number" id="J*Gp9}UIB]if~:ci.Gzl">
+<value name="KEY">
+<shadow type="text" id="3g#/TkjBNjZn])MaqTcl">
+<field name="TEXT">torrespower</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number">
+<field name="NUM">123</field>
+</shadow>
+<block type="variables_get" id=":3;J-P}OJLhXKQ%V;zC%">
+<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
+</block>
+</value>
+<next>
+<block type="telemetry_addNumericData_Number" id="[W-8+hb8RL*)WG1#6ly{">
+<value name="KEY">
+<shadow type="text" id="jBv-Gut!#sh1RX~A0vYU">
+<field name="TEXT">TorresAngle</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number">
+<field name="NUM">123</field>
+</shadow>
+<block type="variables_get" id="7GC)V4.~o8%dAr$(8pPW">
+<field name="VAR" id="O0XlO4GYd|vzrMU~0]%.">TorresAngle</field>
+</block>
+</value>
+<next>
+<block type="telemetry_addNumericData_Number" id="L*{(@c[Y!/joqPa%Q6$z">
+<value name="KEY">
+<shadow type="text" id="^^W2UxR:1,|{G#X6`9_J">
+<field name="TEXT">Right position</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number" id="jY(@O(=_{h}e@@(73j/2">
+<field name="NUM">123</field>
+</shadow>
+<block type="variables_get" id="(LV%@C#z.ow4Zx~hHsA1">
+<field name="VAR" id="TtH-hD5`v4c]D=rlX88=">RightInCm</field>
+</block>
+</value>
+<next>
+<block type="telemetry_addNumericData_Number" id="i={81y?-zA?-4@kf_cm$">
+<value name="KEY">
+<shadow type="text" id="H.0j4SYqgl{8ru``Gw)H">
+<field name="TEXT">left position</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number" id="[g}?GsRR2P1tFb,#=0y%">
+<field name="NUM">123</field>
+</shadow>
+<block type="variables_get" id="^IAJ2i.D^noCoxGl/hyB">
+<field name="VAR" id="7j|BBm2i)urUJfE6|3e0">LeftInCm</field>
+</block>
+</value>
+<next>
+<block type="telemetry_addNumericData_Number" id="@*)n+l|tRz%?l.)mx54Y">
+<value name="KEY">
+<shadow type="text" id="NQD1WCS!_kP,1o}l(#-0">
+<field name="TEXT">Max</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number">
+<field name="NUM">123</field>
+</shadow>
+<block type="variables_get" id="Zao~XpYgS;DNE6-7;lEF">
+<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
+</block>
+</value>
+<next>
+<block type="telemetry_addNumericData_Number" id="U55,jt,8(wHk:Suc;.@e">
+<value name="KEY">
+<shadow type="text" id="LnMQrr_XVYFO[P]G|{v)">
+<field name="TEXT">Torres position</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number" id="9?69Iawnt3/by`ys~kC^">
+<field name="NUM">123</field>
+</shadow>
+<block type="variables_get" id="9@(w});yMr^|%!?pNW=u">
+<field name="VAR" id="48;mfz,84(,Eok@uL-oN">TorresPosition</field>
+</block>
+</value>
+<next>
+<block type="telemetry_addNumericData_Number" id="O//RgW:RwHZnF[WC6_w8">
+<value name="KEY">
+<shadow type="text" id="j_*a[1.m%AHq$:4WzEeZ">
+<field name="TEXT">DriftTorres</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number" id="^$n*?f[AJOQ6,#N0Y*?`">
+<field name="NUM">123</field>
+</shadow>
+<block type="variables_get" id="}1w(!$#RwI(4}gBD9#Xp">
+<field name="VAR" id="p-}UYxZ@B,-%jss@1DEW">DriftTorres</field>
+</block>
+</value>
+<next>
+<block type="telemetry_addNumericData_Number" id=".hiT]AG[U^)RTT1k,gA!">
+<value name="KEY">
+<shadow type="text" id="REytDM%z)?WaUqv#g+Jy">
+<field name="TEXT">L2</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number" id="|89Z#0Z!omrh$b@.*:-u">
+<field name="NUM">123</field>
+</shadow>
+<block type="gamepad_getProperty_Number" id="zyT-;4cw|VKO~)r=eyr5">
+<field name="IDENTIFIER">gamepad1</field>
+<field name="PROP">LeftTrigger</field>
+<data>{"IDENTIFIER":"gamepad1"}</data>
+</block>
+</value>
+<next>
+<block type="telemetry_addNumericData_Number" id="Jws(Vl|3Dq2|i#1wONH7">
+<value name="KEY">
+<shadow type="text" id="sbo{X4:$7qA9]:?5Ll!n">
+<field name="TEXT">R2</field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number">
+<field name="NUM">123</field>
+</shadow>
+<block type="gamepad_getProperty_Number" id="T+]fn^9STxJl{aw.CmJy">
+<field name="IDENTIFIER">gamepad1</field>
+<field name="PROP">RightTrigger</field>
+<data>{"IDENTIFIER":"gamepad1"}</data>
+</block>
+</value>
+<next>
+<block type="telemetry_addNumericData_Number" id="+b~zFNW$]B9~u=b~p8bM">
+<value name="KEY">
+<shadow type="text" id="gXwVT/1#`*Uq+{mu2F4v">
+<field name="TEXT">navx </field>
+</shadow>
+</value>
+<value name="NUMBER">
+<shadow type="math_number" id="(P5jatf8xQwYIOX(dJfw">
+<field name="NUM">123</field>
+</shadow>
+<block type="misc_callJava_return" id="{:e,J5#9iSTr^iG{Y]##">
+<mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.Navx getYaw(org.firstinspires.ftc.robotcore.external.navigation.AngleUnit) double" fullClassName="org.firstinspires.ftc.teamcode.Navx" simpleName="Navx" parameterCount="1" returnType="double" color="289" heading="call Java method" comment="It returns the Yaw (or Z-angle) of the NavX Micro. Angles are in degrees." tooltip="get yaw" accessMethod="callJava_String" convertReturnValue="Number" argLabel0="Angle Unit" argType0="org.firstinspires.ftc.robotcore.external.navigation.AngleUnit" argAuto0=""/>
+<field name="CLASS_NAME">Navx</field>
+<field name="METHOD_NAME">getYaw</field>
+<comment pinned="false" h="80" w="160">It returns the Yaw (or Z-angle) of the NavX Micro. Angles are in degrees.</comment>
+<value name="ARG0">
+<shadow type="navigation_typedEnum_angleUnit" id="I4v@eJAiel(?|q?}=|HN">
+<field name="ANGLE_UNIT">DEGREES</field>
+</shadow>
+</value>
+</block>
+</value>
+<next>
+<block type="misc_callJava_noReturn" id="P~c(y.J.XfW,:/@s7icI" disabled="true">
+<mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.Dashboard Telemetry_with_number(java.lang.String,double) void" fullClassName="org.firstinspires.ftc.teamcode.Dashboard" simpleName="Dashboard" parameterCount="2" returnType="void" color="289" heading="call Java method" comment="" tooltip="" accessMethod="callJava" convertReturnValue="" argLabel0="key" argType0="java.lang.String" argAuto0="" argLabel1="number" argType1="double" argAuto1=""/>
+<field name="CLASS_NAME">Dashboard</field>
+<field name="METHOD_NAME">Telemetry_with_number</field>
+<value name="ARG0">
+<shadow type="text" id="+?J}z7q_L^VXvQR`ol#?">
+<field name="TEXT">position</field>
+</shadow>
+</value>
+<value name="ARG1">
+<shadow type="math_number" id="ipxlB+]/J{*GMz11!Wgs">
+<field name="NUM">0</field>
+</shadow>
+<block type="math_arithmetic" id="[`a()k{$sP,~Ds@ofoFh" inline="false">
+<field name="OP">DIVIDE</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_arithmetic" id=")86Q~6[cma!^BIR:X9/S">
+<field name="OP">ADD</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="RYdQNksl^R7G/F|gP-xL">
+<field name="VAR" id="TtH-hD5`v4c]D=rlX88=">RightInCm</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="ugJb56hfr23()R[KK+33">
+<field name="VAR" id="7j|BBm2i)urUJfE6|3e0">LeftInCm</field>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="A?qPCFuIuG2L#U50ip5o">
+<field name="NUM">2</field>
+</shadow>
+</value>
+</block>
+</value>
+<next>
+<block type="misc_callJava_noReturn" id="oe5ttr-z,x{,}]IEFiEe">
+<mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.Dashboard Telemetry_with_number(java.lang.String,double) void" fullClassName="org.firstinspires.ftc.teamcode.Dashboard" simpleName="Dashboard" parameterCount="2" returnType="void" color="289" heading="call Java method" comment="" tooltip="" accessMethod="callJava" convertReturnValue="" argLabel0="key" argType0="java.lang.String" argAuto0="" argLabel1="number" argType1="double" argAuto1=""/>
+<field name="CLASS_NAME">Dashboard</field>
+<field name="METHOD_NAME">Telemetry_with_number</field>
+<value name="ARG0">
+<shadow type="text" id="MQQp_)B++~|@=NGdi./D">
+<field name="TEXT">consigne</field>
+</shadow>
+</value>
+<value name="ARG1">
+<shadow type="math_number" id="Zg0XoBdV~PwyIz-iNyjK">
+<field name="NUM">0</field>
+</shadow>
+<block type="misc_callJava_return" id="`PGltOz]*!oe(2;_*QPh">
+<mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.Dashboard GetConsigne() float" fullClassName="org.firstinspires.ftc.teamcode.Dashboard" simpleName="Dashboard" parameterCount="0" returnType="float" color="289" heading="call Java method" comment="" tooltip="" accessMethod="callJava_String" convertReturnValue="Number"/>
+<field name="CLASS_NAME">Dashboard</field>
+<field name="METHOD_NAME">GetConsigne</field>
+</block>
+</value>
+<next>
+<block type="misc_callJava_noReturn" id="5$v79Mm?:uYyN2QM1@`?" disabled="true">
+<mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.Dashboard Telemetry_with_number(java.lang.String,double) void" fullClassName="org.firstinspires.ftc.teamcode.Dashboard" simpleName="Dashboard" parameterCount="2" returnType="void" color="289" heading="call Java method" comment="" tooltip="" accessMethod="callJava" convertReturnValue="" argLabel0="key" argType0="java.lang.String" argAuto0="" argLabel1="number" argType1="double" argAuto1=""/>
+<field name="CLASS_NAME">Dashboard</field>
+<field name="METHOD_NAME">Telemetry_with_number</field>
+<value name="ARG0">
+<shadow type="text" id="EfK=*L2Js|W:nNVHO7ND">
+<field name="TEXT">PID result / motor power</field>
+</shadow>
+</value>
+<value name="ARG1">
+<shadow type="math_number" id="6*)?t2ybDcAlcua0|i6|">
+<field name="NUM">0</field>
+</shadow>
+<block type="variables_get" id="h-DUo;/iSwjYi(qD9]{?">
+<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">ArmPower</field>
+</block>
+</value>
+<next>
+<block type="misc_callJava_noReturn" id="I#F}Rc/)I5L/F-W}ZjNs">
+<mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.Dashboard Telemetry_with_number(java.lang.String,double) void" fullClassName="org.firstinspires.ftc.teamcode.Dashboard" simpleName="Dashboard" parameterCount="2" returnType="void" color="289" heading="call Java method" comment="" tooltip="" accessMethod="callJava" convertReturnValue="" argLabel0="key" argType0="java.lang.String" argAuto0="" argLabel1="number" argType1="double" argAuto1=""/>
+<field name="CLASS_NAME">Dashboard</field>
+<field name="METHOD_NAME">Telemetry_with_number</field>
+<value name="ARG0">
+<shadow type="text" id="=jo,lLx`o#CVDhmf?`l2">
+<field name="TEXT">AngleTour</field>
+</shadow>
+</value>
+<value name="ARG1">
+<shadow type="math_number" id="^l_y~%`-yBBo4uSbrZ`U">
+<field name="NUM">0</field>
+</shadow>
+<block type="variables_get" id="n/|eHn#/sVTHMWg[A2Z(">
+<field name="VAR" id="O0XlO4GYd|vzrMU~0]%.">TorresAngle</field>
+</block>
+</value>
+<next>
+<block type="misc_callJava_noReturn" id="Q|I6*Nbldp.V8fU+zMe2">
+<mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.Dashboard TelemetryUpdate() void" fullClassName="org.firstinspires.ftc.teamcode.Dashboard" simpleName="Dashboard" parameterCount="0" returnType="void" color="289" heading="call Java method" comment="" tooltip="" accessMethod="callJava" convertReturnValue=""/>
+<field name="CLASS_NAME">Dashboard</field>
+<field name="METHOD_NAME">TelemetryUpdate</field>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</statement>
+</block>
+<block type="procedures_defnoreturn" id="PDaln8*!|L-1RN6AwYmr" x="-74" y="313">
 <mutation>
 <arg name="TargetPos" varid="E3aq4eK?8p^]_;,ywQ(Y"/>
 </mutation>
 <field name="NAME">PinceOrientation</field>
-<comment pinned="false" h="120" w="372">Pos 1 : Collect sample with a normal orientation
+<comment pinned="false" h="130" w="364">Pos 1 : Collect sample with a normal orientation
 Pos 2 : Collect sample turning at 90°
 Pos 3 : Collect specimens
 Pos 4 : Leave sample in basket
@@ -3659,7 +2778,7 @@ Pos 5 : Put specimen in chambers</comment>
 <data>{"IDENTIFIER":"PinceLeft"}</data>
 <value name="VALUE">
 <shadow type="math_number" id="UI@,e2a*MP4!NB0^lma,">
-<field name="NUM">0</field>
+<field name="NUM">0.4</field>
 </shadow>
 </value>
 <next>
@@ -3669,7 +2788,7 @@ Pos 5 : Put specimen in chambers</comment>
 <data>{"IDENTIFIER":"PinceRight"}</data>
 <value name="VALUE">
 <shadow type="math_number" id="JZ*w]cgDXFX0P`6{13oE">
-<field name="NUM">0.5</field>
+<field name="NUM">0</field>
 </shadow>
 </value>
 </block>
@@ -3698,7 +2817,7 @@ Pos 5 : Put specimen in chambers</comment>
 <data>{"IDENTIFIER":"PinceLeft"}</data>
 <value name="VALUE">
 <shadow type="math_number" id=":Htp-%By3Um9:g/!-}3N">
-<field name="NUM">0.35</field>
+<field name="NUM">0.7</field>
 </shadow>
 </value>
 <next>
@@ -3708,7 +2827,7 @@ Pos 5 : Put specimen in chambers</comment>
 <data>{"IDENTIFIER":"PinceRight"}</data>
 <value name="VALUE">
 <shadow type="math_number" id="f036ll-.F+}J(NauyFTh">
-<field name="NUM">0.85</field>
+<field name="NUM">0.3</field>
 </shadow>
 </value>
 </block>
@@ -3747,7 +2866,7 @@ Pos 5 : Put specimen in chambers</comment>
 <data>{"IDENTIFIER":"PinceRight"}</data>
 <value name="VALUE">
 <shadow type="math_number" id="g#ytE{]2sE[V#XcYtF[J">
-<field name="NUM">0.4</field>
+<field name="NUM">1</field>
 </shadow>
 </value>
 </block>
@@ -3776,7 +2895,7 @@ Pos 5 : Put specimen in chambers</comment>
 <data>{"IDENTIFIER":"PinceLeft"}</data>
 <value name="VALUE">
 <shadow type="math_number" id="Al6$axQ6LaqXOrSC{dn-">
-<field name="NUM">0.45</field>
+<field name="NUM">0</field>
 </shadow>
 </value>
 <next>
@@ -3786,7 +2905,7 @@ Pos 5 : Put specimen in chambers</comment>
 <data>{"IDENTIFIER":"PinceRight"}</data>
 <value name="VALUE">
 <shadow type="math_number" id="nGLe(C3:Pcw`1pK]rR;y">
-<field name="NUM">0.25</field>
+<field name="NUM">0.9</field>
 </shadow>
 </value>
 </block>
@@ -3815,7 +2934,7 @@ Pos 5 : Put specimen in chambers</comment>
 <data>{"IDENTIFIER":"PinceLeft"}</data>
 <value name="VALUE">
 <shadow type="math_number" id="t*Wb^gEn6ITo60h~vhiV">
-<field name="NUM">1</field>
+<field name="NUM">0</field>
 </shadow>
 </value>
 <next>
@@ -3825,13 +2944,1167 @@ Pos 5 : Put specimen in chambers</comment>
 <data>{"IDENTIFIER":"PinceRight"}</data>
 <value name="VALUE">
 <shadow type="math_number" id="-%xPPQSP52{ZLnh69uy1">
-<field name="NUM">0.3</field>
+<field name="NUM">0.35</field>
 </shadow>
 </value>
 </block>
 </next>
 </block>
 </statement>
+</block>
+</statement>
+</block>
+<block type="procedures_defnoreturn" id="}(1Xak5Q5$UH*tZQE;uF" collapsed="true" disabled="true" x="-1627" y="653">
+<field name="NAME">do something</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+<statement name="STACK">
+<block type="controls_if" id="6B,d{HKxvU/fp`r#so{4">
+<mutation else="1"/>
+<value name="IF0">
+<block type="logic_compare" id="UB8v|t0%VNqEU_bKHn|0">
+<field name="OP">LT</field>
+<value name="A">
+<block type="variables_get" id="_oI$a-y@A#*peR!dAE^B">
+<field name="VAR" id="O0XlO4GYd|vzrMU~0]%.">TorresAngle</field>
+</block>
+</value>
+<value name="B">
+<block type="math_number" id="Lq2h}TQ5cO9=RU-@B,+5">
+<field name="NUM">90</field>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id=";!2E!zF6`ot8bhl2Jrzo">
+<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="33APr)P%T#sSB-G8m3v|">
+<field name="OP">MINUS</field>
+<value name="A">
+<shadow type="math_number" id="5_,d1*#P-c#LQ|QKH%Ue">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_arithmetic" id="S!Zb7Ejbyt^[a%z/YK?o">
+<field name="OP">DIVIDE</field>
+<value name="A">
+<shadow type="math_number" id="f.:,Ra%/`c#)9knO78r6">
+<field name="NUM">67.1</field>
+</shadow>
+</value>
+<value name="B">
+<shadow type="math_number" id="_?KiXG%AFDV/S%4v`dd~">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_trig" id="TF3nD%aI,V#5q-V[,0)n">
+<field name="OP">COS</field>
+<value name="NUM">
+<shadow type="math_number" id=";in-c8JHsUTN7,GjR@QO">
+<field name="NUM">45</field>
+</shadow>
+<block type="variables_get" id="lOMss_o,t8lg8xHw#}h)">
+<field name="VAR" id="O0XlO4GYd|vzrMU~0]%.">TorresAngle</field>
+</block>
+</value>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="4p21NU4[hahbs*[1c,0j">
+<field name="NUM">29.2</field>
+</shadow>
+</value>
+</block>
+</value>
+</block>
+</statement>
+<statement name="ELSE">
+<block type="variables_set" id="i~@3qIqN?^An@pWF~q;X">
+<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="b`ve:E)4GTzy`Xuluf_:">
+<field name="OP">MINUS</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_arithmetic" id="]ab3.9QOF9{/4,(oihyW">
+<field name="OP">DIVIDE</field>
+<value name="A">
+<shadow type="math_number" id="5f)RJpz{srKoVxQBh9)Q">
+<field name="NUM">18</field>
+</shadow>
+</value>
+<value name="B">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_trig" id="n3122gwowesS9z[50VoH">
+<field name="OP">SIN</field>
+<value name="NUM">
+<shadow type="math_number">
+<field name="NUM">45</field>
+</shadow>
+<block type="variables_get" id=";1Fep`zk*qt$)Di9pFao">
+<field name="VAR" id="O0XlO4GYd|vzrMU~0]%.">TorresAngle</field>
+</block>
+</value>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="DO9K)Ck-HM`jtEWOWmN_">
+<field name="NUM">29.2</field>
+</shadow>
+</value>
+</block>
+</value>
+</block>
+</statement>
+<next>
+<block type="controls_if" id="ge$MX4.Q6Dyw.BK@p{!r">
+<value name="IF0">
+<block type="logic_compare" id="){U%kHwqf%OifMf,DP;y">
+<field name="OP">GT</field>
+<value name="A">
+<block type="variables_get" id="MTQg@XjH]X0H@}`lNMX=">
+<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
+</block>
+</value>
+<value name="B">
+<block type="variables_get" id="P{H{F@arMl=O[5-sKwh(">
+<field name="VAR" id="c^pZ=BM.FVns.ppIF^wB">DeploiementMaxPhysique</field>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id="7S(85()HxM@TVUnsN+*F">
+<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
+<value name="VALUE">
+<block type="variables_get" id="_kJxSoTMtPtHxnqTbtL]">
+<field name="VAR" id="c^pZ=BM.FVns.ppIF^wB">DeploiementMaxPhysique</field>
+</block>
+</value>
+</block>
+</statement>
+<next>
+<block type="math_change" id="[F|T[5CJ`VF]}sj;?NgV">
+<field name="VAR" id="{=HEMC]@ZVau@spYsh;=">ArmConsigne</field>
+<value name="DELTA">
+<shadow type="math_number" id="6s,FL9*@}2us+zDJ|pei">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="I6|AQglEq))cQ:JqTYji">
+<field name="VAR" id="SGjtJhYONL-$M@47/%de">LeftStickInversé</field>
+</block>
+</value>
+<next>
+<block type="controls_if" id="@[obpJN0-.)72W!1iH#q">
+<value name="IF0">
+<block type="logic_compare" id="M9/14WvX*rU0LaLmx~4`">
+<field name="OP">GT</field>
+<value name="A">
+<block type="math_single" id="54.oH,;zZJ#U*Hwe#A~!">
+<field name="OP">ABS</field>
+<value name="NUM">
+<shadow type="math_number" id="|W8f7GN$S4KFnp~?m8S`">
+<field name="NUM">9</field>
+</shadow>
+<block type="variables_get" id="$WwqLaahiTJYft$dH/(A">
+<field name="VAR" id="{=HEMC]@ZVau@spYsh;=">ArmConsigne</field>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<block type="math_number" id="IT/jvY!}lNu5pn~UMK1n">
+<field name="NUM">1</field>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id="tV8/ohoF7ABYcSEJPTu{">
+<field name="VAR" id="{=HEMC]@ZVau@spYsh;=">ArmConsigne</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="6l?u[pOX^^OA-p6%Szpu">
+<field name="OP">DIVIDE</field>
+<value name="A">
+<shadow type="math_number" id="./eh#(Zyl-vFWGiW%qs8">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="jV%go6eL,gD)YNf[:dwW">
+<field name="VAR" id="{=HEMC]@ZVau@spYsh;=">ArmConsigne</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="dWuR$3@KD./g/:X8h6=+">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_single" id="!OWb,!)dth|NNqQnL22Y">
+<field name="OP">ABS</field>
+<value name="NUM">
+<shadow type="math_number">
+<field name="NUM">9</field>
+</shadow>
+<block type="variables_get" id=":.x,.Z[ezBxkXEyK_k41">
+<field name="VAR" id="{=HEMC]@ZVau@spYsh;=">ArmConsigne</field>
+</block>
+</value>
+</block>
+</value>
+</block>
+</value>
+</block>
+</statement>
+<next>
+<block type="variables_set" id="$2:f1_}4F0BZg[l*p?BH">
+<field name="VAR" id="{HIeM*6#J6b6EFSkYnX{">ArmConsigneInCm</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="b6!DY@c},hOM.JR`K~ou" inline="false">
+<field name="OP">DIVIDE</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_arithmetic" id=";1INzk*m|[([ysx|WKGY">
+<field name="OP">MULTIPLY</field>
+<value name="A">
+<shadow type="math_number" id="UxRa$_(.C@;ZL@X$*rIg">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_arithmetic" id="ujKr(sj_Ud@^^pp(}G+E">
+<field name="OP">MULTIPLY</field>
+<value name="A">
+<shadow type="math_number" id="3qp0u?M:@T2Rj*`+rlt.">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="Y5VheJeaC=rSM-+#KpRe">
+<field name="VAR" id="{HIeM*6#J6b6EFSkYnX{">ArmConsigneInCm</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="(CQwZ}#KZd0X95]3k_c?">
+<field name="NUM">3900</field>
+</shadow>
+</value>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="Ks6+-}J(Osezq*x,WS7$">
+<field name="VAR" id="~%J9~Y{:_^*wB7=Q$aIg">CircumferenceArmPulley</field>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="uUwdLrUCEvHn+aj@AmhL">
+<field name="NUM">420</field>
+</shadow>
+</value>
+</block>
+</value>
+<next>
+<block type="controls_if" id="l)s~~cFq_D9O$a:7C]u2">
+<value name="IF0">
+<block type="logic_compare" id="cC3]h:nlCV=e}Z6YN9^^">
+<field name="OP">GT</field>
+<value name="A">
+<block type="variables_get" id="pAiF7]~9pK6nV;_3jR8i">
+<field name="VAR" id="{HIeM*6#J6b6EFSkYnX{">ArmConsigneInCm</field>
+</block>
+</value>
+<value name="B">
+<block type="variables_get" id="HULUqb}U0%e,H#7Jyp:q">
+<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id="Ak@RsN3=2[*vQ|8_Yjkx">
+<field name="VAR" id="{HIeM*6#J6b6EFSkYnX{">ArmConsigneInCm</field>
+<value name="VALUE">
+<block type="variables_get" id="7P)y}r{ytL7PCdK#r1T*">
+<field name="VAR" id="j.[SFGXQ#2GrkUm_kyl0">DeploiementMaxBras</field>
+</block>
+</value>
+</block>
+</statement>
+<next>
+<block type="controls_if" id="7w#5#a;enG4GFhqiaYUK">
+<value name="IF0">
+<block type="logic_compare" id="|F+mkBh~AOE-9,DX^+sr">
+<field name="OP">GT</field>
+<value name="A">
+<block type="math_single" id="H;Je#erK0Fq]zYMoxm~l">
+<field name="OP">ABS</field>
+<value name="NUM">
+<shadow type="math_number" id="g$v3taHazm*bg|-M#I:}">
+<field name="NUM">9</field>
+</shadow>
+<block type="variables_get" id=";~Y3Ya5,|1gWR#6=Y=.;">
+<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">ArmPower</field>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<block type="math_number" id="}XL{?4UKI,Ujf7a|@vxw">
+<field name="NUM">1</field>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id="p#hZ)C2G-e+T`J6%KZY+">
+<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">ArmPower</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="(.^=gd%]*:_6zvb;Qm_e">
+<field name="OP">DIVIDE</field>
+<value name="A">
+<shadow type="math_number" id="_|`)D_YQ5`PB5oa)#b.(">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="T(}gQI;8S3@FUnzQCa}|">
+<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">ArmPower</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="dnEE]9fj|2w}Qzuh~A[^">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_single" id="XqS:20eG%$E;y(V)GT}*">
+<field name="OP">ABS</field>
+<value name="NUM">
+<shadow type="math_number">
+<field name="NUM">9</field>
+</shadow>
+<block type="variables_get" id="GW$Le!HRd^mqD^xS8~pL">
+<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">ArmPower</field>
+</block>
+</value>
+</block>
+</value>
+</block>
+</value>
+</block>
+</statement>
+<next>
+<block type="comment" id="~:-RVAZ9+A.P%9TLF-^U">
+<field name="COMMENT">Enter your comment here!</field>
+<next>
+<block type="math_change" id="oZ*H;VHwhSQ8L]HNz#yx">
+<field name="VAR" id="mFGLiv+lP@@3=Os~#XN{">ConsigneTorres</field>
+<value name="DELTA">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_arithmetic" id="tOdc^P)K;$:Gx7`AGv[P">
+<field name="OP">MINUS</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="gamepad_getProperty_Number" id="@QmK~l3g2FE:k#a}Dxil">
+<field name="IDENTIFIER">gamepad1</field>
+<field name="PROP">RightTrigger</field>
+<data>{"IDENTIFIER":"gamepad1"}</data>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="gamepad_getProperty_Number" id="}V=5a,J/vhXn%{-~FYIR">
+<field name="IDENTIFIER">gamepad1</field>
+<field name="PROP">LeftTrigger</field>
+<data>{"IDENTIFIER":"gamepad1"}</data>
+</block>
+</value>
+</block>
+</value>
+<next>
+<block type="controls_if" id="oMSuVeLK#i{mTB4woY;3">
+<value name="IF0">
+<block type="gamepad_getProperty_Boolean" id="J!AE!Y(bQHW28Ajek0,G">
+<field name="IDENTIFIER">gamepad1</field>
+<field name="PROP">Cross</field>
+<data>{"IDENTIFIER":"gamepad1"}</data>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id="(VX9(47l*u0u/;Y4Y`RJ">
+<field name="VAR" id="mFGLiv+lP@@3=Os~#XN{">ConsigneTorres</field>
+<value name="VALUE">
+<block type="math_number" id="B|A41QI@d?m@UkG*c)5G">
+<field name="NUM">0.41</field>
+</block>
+</value>
+</block>
+</statement>
+<next>
+<block type="controls_if" id="VFQCZ:`5z7ttbC;xrMG8">
+<value name="IF0">
+<block type="logic_compare" id="1+hN}0Vkj]73J6NdK{X2">
+<field name="OP">GT</field>
+<value name="A">
+<block type="math_single" id="LqAxfP6wGy#zYZztE0Y4">
+<field name="OP">ABS</field>
+<value name="NUM">
+<shadow type="math_number">
+<field name="NUM">9</field>
+</shadow>
+<block type="variables_get" id="/i61KoqCjg0Qd^p5O~6a">
+<field name="VAR" id="mFGLiv+lP@@3=Os~#XN{">ConsigneTorres</field>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<block type="math_number" id="Szna?e,mq+MK@#zEw:pN">
+<field name="NUM">1</field>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id="y?kox|QaL[=1SlqZUur;">
+<field name="VAR" id="mFGLiv+lP@@3=Os~#XN{">ConsigneTorres</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="yg.eO#d-jbp5C?i)fGuI">
+<field name="OP">DIVIDE</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="|{9XW_,mG%Ejhkg6u#K(">
+<field name="VAR" id="mFGLiv+lP@@3=Os~#XN{">ConsigneTorres</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_single" id="yu2jsU}0l#gNE[)X!#sS">
+<field name="OP">ABS</field>
+<value name="NUM">
+<shadow type="math_number">
+<field name="NUM">9</field>
+</shadow>
+<block type="variables_get" id="ZM.MS3CsexLxGGQWGG94">
+<field name="VAR" id="mFGLiv+lP@@3=Os~#XN{">ConsigneTorres</field>
+</block>
+</value>
+</block>
+</value>
+</block>
+</value>
+</block>
+</statement>
+<next>
+<block type="variables_set" id="bb5$s]hAwaR)QJkDnTP:">
+<field name="VAR" id="U~mg{]jP,_ETyry[,P5e">CTorresInDegrees</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="`0ZRUhS:^!aUg$FqFPpB">
+<field name="OP">MINUS</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_arithmetic" id="eb!^AP{Hg?r$p9gnNm.S">
+<field name="OP">MULTIPLY</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="Xa@`B}h^`mixp10S8Y)O">
+<field name="VAR" id="mFGLiv+lP@@3=Os~#XN{">ConsigneTorres</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="4?7zBOdC-Y$`tv9l/ys1">
+<field name="NUM">125.6</field>
+</shadow>
+</value>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="q$cWw#$8-.KbR1mnn]}*">
+<field name="NUM">7.3</field>
+</shadow>
+</value>
+</block>
+</value>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</statement>
+</block>
+<block type="procedures_defnoreturn" id="HvO?B7|hwkE!uTV}T]wO" x="-850" y="694">
+<mutation>
+<arg name="ConsigneArm" varid="]anhqL(==Wve$!*9r!@H"/>
+</mutation>
+<field name="NAME">ExtensibleArm</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+<statement name="STACK">
+<block type="controls_if" id="}%$qBH|uvhfIK$qrj3zZ">
+<mutation elseif="1"/>
+<value name="IF0">
+<block type="logic_compare" id="}E^NTwx{f2TuiyGb3a7r">
+<field name="OP">GT</field>
+<value name="A">
+<block type="variables_get" id="CIqk^PC4/;C?Wu-SDmtB">
+<field name="VAR" id="]anhqL(==Wve$!*9r!@H">ConsigneArm</field>
+</block>
+</value>
+<value name="B">
+<block type="math_number" id="!In|/R#U-K%LV4nJXn{v">
+<field name="NUM">1</field>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id="pUe1;/Vy-Ym89irs*NO*">
+<field name="VAR" id="]anhqL(==Wve$!*9r!@H">ConsigneArm</field>
+<value name="VALUE">
+<block type="math_number" id="{RvQ2h_7/)/PD%l]g3Dl">
+<field name="NUM">1</field>
+</block>
+</value>
+</block>
+</statement>
+<value name="IF1">
+<block type="logic_compare" id="y8AG3IkH@sH*va3y18d6">
+<field name="OP">LT</field>
+<value name="A">
+<block type="variables_get" id="ppAe77^@PIDdXcfHP,*i">
+<field name="VAR" id="]anhqL(==Wve$!*9r!@H">ConsigneArm</field>
+</block>
+</value>
+<value name="B">
+<block type="math_number" id="LII)13mUHgEq~fwZ.J)Q">
+<field name="NUM">0</field>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO1">
+<block type="variables_set" id="txHYJu[_]Z^]e8V*5vEG">
+<field name="VAR" id="]anhqL(==Wve$!*9r!@H">ConsigneArm</field>
+<value name="VALUE">
+<block type="math_number" id="/MlGrI6jUWH)cv)aa:AO">
+<field name="NUM">0</field>
+</block>
+</value>
+</block>
+</statement>
+<next>
+<block type="variables_set" id="VW.Zdzuf{0i^}WH7V.AD">
+<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">ArmPower</field>
+<value name="VALUE">
+<block type="procedures_callreturn" id="6X?6#y$xq8wcqU6Op67K">
+<mutation name="GetVoltageConpensed">
+<arg name="Consigne"/>
+</mutation>
+<value name="ARG0">
+<block type="misc_callJava_return" id="-2,;C4`?]Mw1i[|@ZvX(">
+<mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.Pid_RBL Calculate(int,double,double) double" fullClassName="org.firstinspires.ftc.teamcode.Pid_RBL" simpleName="Pid_RBL" parameterCount="3" returnType="double" color="289" heading="call Java method" comment="calcul du PID" tooltip="Calcule la sortie PID en fonction de la consigne et de la mesure" accessMethod="callJava_String" convertReturnValue="Number" argLabel0="ID" argType0="int" argAuto0="" argLabel1="consigne" argType1="double" argAuto1="" argLabel2="mesure" argType2="double" argAuto2=""/>
+<field name="CLASS_NAME">Pid_RBL</field>
+<field name="METHOD_NAME">Calculate</field>
+<comment pinned="false" h="80" w="160">calcul du PID</comment>
+<value name="ARG0">
+<shadow type="math_number" id="tX$QWw*GRD2LtW2w44Va">
+<field name="NUM">7</field>
+</shadow>
+</value>
+<value name="ARG1">
+<shadow type="math_number" id="H11/VMbcqFmEadTW)0/2">
+<field name="NUM">0</field>
+</shadow>
+<block type="math_arithmetic" id="C}hQH=qq:3:pCJu|(p9X">
+<field name="OP">MULTIPLY</field>
+<value name="A">
+<shadow type="math_number" id="F1vzL9h,2V_@qhsR=.,V">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="4}KS[}-UL?G#sx_o;cEC">
+<field name="VAR" id="]anhqL(==Wve$!*9r!@H">ConsigneArm</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="VJR,I8ghR9;Y#fr17=#j">
+<field name="NUM">70</field>
+</shadow>
+</value>
+</block>
+</value>
+<value name="ARG2">
+<shadow type="math_number" id="j9eZClK4-eP`uDy{_iIn">
+<field name="NUM">0</field>
+</shadow>
+<block type="math_arithmetic" id="k:pe^676[K4r${WNW_{~" inline="false">
+<field name="OP">DIVIDE</field>
+<value name="A">
+<shadow type="math_number" id="R1tr[PzQ^c-X4KZ7((m4">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_arithmetic" id="r/gydNJ5oA{}(22IcFq;">
+<field name="OP">ADD</field>
+<value name="A">
+<shadow type="math_number" id="u*RoXpD]pqXD%P`;ks$(">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="^-x0=#Rr{z]0lov;9Hfq">
+<field name="VAR" id="TtH-hD5`v4c]D=rlX88=">RightInCm</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="]GFMV!7,6A|SL1HC6PG}">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="Z#n|`TP@ux!24t.XXcut">
+<field name="VAR" id="7j|BBm2i)urUJfE6|3e0">LeftInCm</field>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="j$_}wcwv.#~8:**a69i|">
+<field name="NUM">2</field>
+</shadow>
+</value>
+</block>
+</value>
+</block>
+</value>
+</block>
+</value>
+<next>
+<block type="controls_if" id="Y}C_2a$xajQ|2#rtek^D">
+<value name="IF0">
+<block type="logic_operation" id="sybA.g~.!aG:,:z3-Tv|">
+<field name="OP">OR</field>
+<value name="A">
+<block type="touchSensor_getProperty_Boolean" id="H|I}0RmR)Q$wK?bS%#fh">
+<field name="IDENTIFIER">Touch2AsTouchSensor</field>
+<field name="PROP">IsPressed</field>
+<data>{"IDENTIFIER":"Touch2"}</data>
+</block>
+</value>
+<value name="B">
+<block type="touchSensor_getProperty_Boolean" id="PopW?nYkPKlRE0a^MKRr">
+<field name="IDENTIFIER">Touch1AsTouchSensor</field>
+<field name="PROP">IsPressed</field>
+<data>{"IDENTIFIER":"Touch1"}</data>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id="Q(a.y2GtGu-,FFhC4pd(">
+<field name="VAR" id="9$#cwip;UE0KM!pR$=7{">DriftRight</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="34bmjWciHL*@}px;B#GC">
+<field name="OP">MINUS</field>
+<value name="A">
+<shadow type="math_number" id="O;(AQ69S?t.~e:CBr(J}">
+<field name="NUM">0</field>
+</shadow>
+</value>
+<value name="B">
+<shadow type="math_number" id="KWX%*He%rOK,mPxw[!T?">
+<field name="NUM">1</field>
+</shadow>
+<block type="dcMotor_getProperty_Number" id="/kVTq#Uj[;5,@8,hnGr{">
+<field name="IDENTIFIER">ArmRightAsDcMotor</field>
+<field name="PROP">CurrentPosition</field>
+<data>{"IDENTIFIER":"ArmRight"}</data>
+</block>
+</value>
+</block>
+</value>
+<next>
+<block type="variables_set" id="]A7pzV;m}YC6|,vBX3hO">
+<field name="VAR" id="Rp0lPekaC/RdrSHhJ}7}">DriftLeft</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="[6pP2Mz~Ufkz0I|xrG3F">
+<field name="OP">MINUS</field>
+<value name="A">
+<shadow type="math_number" id="4X{Fe_8[8Xv`oPL)YE?-">
+<field name="NUM">0</field>
+</shadow>
+</value>
+<value name="B">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="dcMotor_getProperty_Number" id="cY)BEq!ZONK:qf.~.vgP">
+<field name="IDENTIFIER">ArmLeftAsDcMotor</field>
+<field name="PROP">CurrentPosition</field>
+<data>{"IDENTIFIER":"ArmLeft"}</data>
+</block>
+</value>
+</block>
+</value>
+<next>
+<block type="controls_if" id="(83+%cd;`|34a3F?CE0,">
+<value name="IF0">
+<block type="logic_compare" id="sx5c,9U0`z4U_nGL@f~W">
+<field name="OP">LT</field>
+<value name="A">
+<block type="variables_get" id="{.##$ra4ER?{JT9-Rmn!">
+<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">ArmPower</field>
+</block>
+</value>
+<value name="B">
+<block type="math_number" id="oBZE:{~GvJdHh[ih3cp+">
+<field name="NUM">0</field>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id="+[oAn6dlSeWy?b-P,*UI">
+<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">ArmPower</field>
+<value name="VALUE">
+<block type="math_number" id="jo`o%Hux$SX(8;0$|/fS">
+<field name="NUM">0</field>
+</block>
+</value>
+<next>
+<block type="variables_set" id="XE^2WRNh;s%A1h5Ce,uh">
+<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">ArmPower</field>
+<value name="VALUE">
+<block type="math_number" id="fRxCjgY-Mhic93nN7D=,">
+<field name="NUM">0</field>
+</block>
+</value>
+</block>
+</next>
+</block>
+</statement>
+</block>
+</next>
+</block>
+</next>
+</block>
+</statement>
+<next>
+<block type="controls_if" id="^sXbR8E~e$h[n[=uh$Dh">
+<value name="IF0">
+<block type="logic_compare" id="!0IO?ckZT/f*vTO{OKV+">
+<field name="OP">GT</field>
+<value name="A">
+<block type="math_single" id="Y%.DQ_7.JP+8W(rG8LGP">
+<field name="OP">ABS</field>
+<value name="NUM">
+<shadow type="math_number" id="zK^(?pjU0@-`9Xh)Z?0#">
+<field name="NUM">9</field>
+</shadow>
+<block type="variables_get" id="l`A=/nn_IjLp{0$e0y$4">
+<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">ArmPower</field>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<block type="math_number" id="J%$V@31DuNbEAH`.}7E`">
+<field name="NUM">1</field>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id="a}:zoTRpj@.%b.qa)Glr">
+<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">ArmPower</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="0^)OqU`!d9I@5#4bZ$Tt">
+<field name="OP">DIVIDE</field>
+<value name="A">
+<shadow type="math_number" id="W*z/LNLe+h}B**rp5q([">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="^7l2/$`iydem#]vg{q?f">
+<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">ArmPower</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="09|s`G0$ujiv70e:LbEz">
+<field name="NUM">70</field>
+</shadow>
+<block type="math_single" id="8p-2wGUjpP@sH6eu408]">
+<field name="OP">ABS</field>
+<value name="NUM">
+<shadow type="math_number">
+<field name="NUM">9</field>
+</shadow>
+<block type="variables_get" id="+[QPBDk]f=Dy(rf?Ue|p">
+<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">ArmPower</field>
+</block>
+</value>
+</block>
+</value>
+</block>
+</value>
+</block>
+</statement>
+<next>
+<block type="dcMotor_setProperty_Number" id="b?$%1-pkv.=,FM$p=^-p">
+<field name="IDENTIFIER">ArmRightAsDcMotor</field>
+<field name="PROP">Power</field>
+<data>{"IDENTIFIER":"ArmRight"}</data>
+<value name="VALUE">
+<shadow type="math_number" id="K6=1$WD;$I?@_)VxkonM">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="h+xySl9+8%K1IU#wL^$d">
+<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">ArmPower</field>
+</block>
+</value>
+<next>
+<block type="dcMotor_setProperty_Number" id="{JQJ!|9,HX*;K9scrCAd">
+<field name="IDENTIFIER">ArmLeftAsDcMotor</field>
+<field name="PROP">Power</field>
+<data>{"IDENTIFIER":"ArmLeft"}</data>
+<value name="VALUE">
+<shadow type="math_number" id="3AdNlF3}M=En%7b**~T|">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="kX7;Gw=A%E~^v_D8=Gh}">
+<field name="VAR" id="~1d^[CJ=mlJb-Br?~oAE">ArmPower</field>
+</block>
+</value>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</statement>
+</block>
+<block type="procedures_defnoreturn" id="]jx01Gb-(sN(4w@E|n=," x="-328" y="1167">
+<mutation>
+<arg name="TorresConsigne" varid="9lmuP-YhVG_DBHc/`S^="/>
+</mutation>
+<field name="NAME">Torres</field>
+<comment pinned="false" h="80" w="160">Describe this function...</comment>
+<statement name="STACK">
+<block type="controls_if" id="bty9_yBnm6T.M*r[J3[[">
+<value name="IF0">
+<block type="logic_compare" id="UBTY}BG0N4zBshQ2D:6-">
+<field name="OP">GT</field>
+<value name="A">
+<block type="math_single" id="r-5H))p***G]jQ.h2q7$">
+<field name="OP">ABS</field>
+<value name="NUM">
+<shadow type="math_number" id="at].5)l%8Xtw-_n)o$6P">
+<field name="NUM">9</field>
+</shadow>
+<block type="variables_get" id="~v4n~Ao3aLMI5o`ivAL?">
+<field name="VAR" id="9lmuP-YhVG_DBHc/`S^=">TorresConsigne</field>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<block type="math_number" id="r`yRIX+O=^93EBtxct/1">
+<field name="NUM">1</field>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id="[%{w(Y)ax1DY[|/cL}ov">
+<field name="VAR" id="9lmuP-YhVG_DBHc/`S^=">TorresConsigne</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="8QuGls~Xyw^`nM$Kz0DV">
+<field name="OP">DIVIDE</field>
+<value name="A">
+<shadow type="math_number" id="HLLcnun+ZOy.NuCM8Nom">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="cxr+l5@%L+^3z12=nsBZ">
+<field name="VAR" id="9lmuP-YhVG_DBHc/`S^=">TorresConsigne</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="v}}MYl+p?o$p50mJ0zA5">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_single" id=")Xj{E9BVg;n*O:lS*yd7">
+<field name="OP">ABS</field>
+<value name="NUM">
+<shadow type="math_number">
+<field name="NUM">9</field>
+</shadow>
+<block type="variables_get" id="K9Q-D5p~39v?~7oTsmF=">
+<field name="VAR" id="9lmuP-YhVG_DBHc/`S^=">TorresConsigne</field>
+</block>
+</value>
+</block>
+</value>
+</block>
+</value>
+</block>
+</statement>
+<next>
+<block type="variables_set" id="gAB~Usgh[BT.7)Cv^9jx">
+<field name="VAR" id="9lmuP-YhVG_DBHc/`S^=">TorresConsigne</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="=)GNPddu07ywZ6a0]V2M">
+<field name="OP">MINUS</field>
+<value name="A">
+<shadow type="math_number" id="_=Z(ipDkMg6sk0A%K9o{">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_arithmetic" id="cZ7H$8Y-!2$u/JhbHY2t">
+<field name="OP">MULTIPLY</field>
+<value name="A">
+<shadow type="math_number" id="$zy+Ply._N3F*b(d|V*p">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="?+TmohI4BbP$R@W==L@^">
+<field name="VAR" id="9lmuP-YhVG_DBHc/`S^=">TorresConsigne</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="$~pGxd}?yjptCR=TxCOs">
+<field name="NUM">125</field>
+</shadow>
+</value>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="IgL:h4,X9g3T,^GW,zvm">
+<field name="NUM">10.3</field>
+</shadow>
+</value>
+</block>
+</value>
+<next>
+<block type="variables_set" id="XwRteJ?;QIV0pQ8bg3do">
+<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="6.P`V!7,,y@.]BO]J+S7">
+<field name="OP">ADD</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="procedures_callreturn" id="waUZJ4JYhE=;d,gNb~f=">
+<mutation name="GetVoltageConpensed">
+<arg name="Consigne"/>
+</mutation>
+<value name="ARG0">
+<block type="misc_callJava_return" id="_VCxfORC$_=}h^qRxmeI">
+<mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.Pid_RBL Calculate(int,double,double) double" fullClassName="org.firstinspires.ftc.teamcode.Pid_RBL" simpleName="Pid_RBL" parameterCount="3" returnType="double" color="289" heading="call Java method" comment="calcul du PID" tooltip="Calcule la sortie PID en fonction de la consigne et de la mesure" accessMethod="callJava_String" convertReturnValue="Number" argLabel0="ID" argType0="int" argAuto0="" argLabel1="consigne" argType1="double" argAuto1="" argLabel2="mesure" argType2="double" argAuto2=""/>
+<field name="CLASS_NAME">Pid_RBL</field>
+<field name="METHOD_NAME">Calculate</field>
+<comment pinned="false" h="80" w="160">calcul du PID</comment>
+<value name="ARG0">
+<shadow type="math_number" id="vw#LRHrT^s)S7i94BJXp">
+<field name="NUM">6</field>
+</shadow>
+</value>
+<value name="ARG1">
+<shadow type="math_number" id="YJ3wUm$.@EUHX!Q!r~C~">
+<field name="NUM">0</field>
+</shadow>
+<block type="variables_get" id="JBE_1e2/{Y)L9K+:-R=}">
+<field name="VAR" id="9lmuP-YhVG_DBHc/`S^=">TorresConsigne</field>
+</block>
+</value>
+<value name="ARG2">
+<shadow type="math_number">
+<field name="NUM">0</field>
+</shadow>
+<block type="variables_get" id="Z|7(z*:E.AG{i[4}0:SR">
+<field name="VAR" id="O0XlO4GYd|vzrMU~0]%.">TorresAngle</field>
+</block>
+</value>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="misc_callJava_return" id="@2m_FnDp~@BHcNu}6pjc">
+<mutation createDropdownFunctionName="" methodLookupString="org.firstinspires.ftc.teamcode.SlidyFrog GravityCounter(double,double) double" fullClassName="org.firstinspires.ftc.teamcode.SlidyFrog" simpleName="SlidyFrog" parameterCount="2" returnType="double" color="289" heading="call Java method" comment="" tooltip="" accessMethod="callJava_String" convertReturnValue="Number" argLabel0="Angle" argType0="double" argAuto0="" argLabel1="Arm Pos" argType1="double" argAuto1=""/>
+<field name="CLASS_NAME">SlidyFrog</field>
+<field name="METHOD_NAME">GravityCounter</field>
+<value name="ARG0">
+<shadow type="math_number">
+<field name="NUM">0</field>
+</shadow>
+<block type="variables_get" id="AK;0e#-}oWihgmDkxZ~j">
+<field name="VAR" id="O0XlO4GYd|vzrMU~0]%.">TorresAngle</field>
+</block>
+</value>
+<value name="ARG1">
+<shadow type="math_number">
+<field name="NUM">0</field>
+</shadow>
+<block type="math_arithmetic" id="@s,9@5?c$T;`WO4DChT2">
+<field name="OP">DIVIDE</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_arithmetic" id="RtVmr2H+S]R/yI6L~/@J">
+<field name="OP">ADD</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="vyR!`QKu=/B9*5Ux#Qu8">
+<field name="VAR" id="PQBZnc]oc.V%GjJ[04M?">LeftWithDrift</field>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="X;[ONR,/$%sdywH+Q!i(">
+<field name="VAR" id="XjGQEZIy|)e_yBaa,d[g">RightWithDrift</field>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number" id="^r3{MDzke!LZ|27A;vds">
+<field name="NUM">2</field>
+</shadow>
+</value>
+</block>
+</value>
+</block>
+</value>
+</block>
+</value>
+<next>
+<block type="controls_if" id="dT/lnlTpCZ[V@[@l~ND#">
+<value name="IF0">
+<block type="logic_compare" id="I`nAZiyiB7Z#P!x#l?R1">
+<field name="OP">GT</field>
+<value name="A">
+<block type="math_single" id="f3ArRF{[aGv*Ve}t/9#G">
+<field name="OP">ABS</field>
+<value name="NUM">
+<shadow type="math_number">
+<field name="NUM">9</field>
+</shadow>
+<block type="variables_get" id="UVy7`[ZY`aeXDg)?iNO3">
+<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<block type="math_number" id="@eK%4Npr@qG|E7)olC!b">
+<field name="NUM">1</field>
+</block>
+</value>
+</block>
+</value>
+<statement name="DO0">
+<block type="variables_set" id="4KU[+6cYltPF3ugTY.z]">
+<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
+<value name="VALUE">
+<block type="math_arithmetic" id="](1m`W_whwl5uZKzyV2_">
+<field name="OP">DIVIDE</field>
+<value name="A">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="math_single" id="N#=YBRTNe~fThtT,V`B!">
+<field name="OP">ABS</field>
+<value name="NUM">
+<shadow type="math_number">
+<field name="NUM">9</field>
+</shadow>
+<block type="variables_get" id="^0khdKxq8u8S9zN5^,!H">
+<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
+</block>
+</value>
+</block>
+</value>
+<value name="B">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="h!$F3?C`6XSzY9-Bu2!s">
+<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
+</block>
+</value>
+</block>
+</value>
+</block>
+</statement>
+<next>
+<block type="dcMotor_setDualProperty_Number" id="qL1.f(yvd=M,-j(e=3Cg">
+<field name="PROP">Power</field>
+<field name="IDENTIFIER1">TowerLeftAsDcMotor</field>
+<field name="IDENTIFIER2">TowerRightAsDcMotor</field>
+<data>{"IDENTIFIER1":"TowerLeft","IDENTIFIER2":"TowerRight"}</data>
+<value name="VALUE1">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="P?d?{9fAWbpxo]EnJj2|">
+<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
+</block>
+</value>
+<value name="VALUE2">
+<shadow type="math_number">
+<field name="NUM">1</field>
+</shadow>
+<block type="variables_get" id="UlBQxiGD06=x44$I`}]L">
+<field name="VAR" id="7LTo?Ufk@^+,K6wFz~13">TorresPower</field>
+</block>
+</value>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
+</block>
+</next>
 </block>
 </statement>
 </block>
